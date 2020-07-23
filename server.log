@@ -1632,3 +1632,543 @@
 2020-07-23 [17:45:15] [Server thread/INFO]: Disabling AntiHack v1.0.0
 2020-07-23 [17:45:15] [Server thread/INFO]: Unloading world "world"
 2020-07-23 [17:45:15] [Server thread/INFO]: Stopping other threads
+2020-07-23 [11:25:19] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-23 [11:25:19] [Server thread/INFO]: Loading server properties...
+2020-07-23 [11:25:19] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-23 [11:25:19] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-23 [11:25:19] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2020-07-23 [11:25:19] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2020-07-23 [11:25:19] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2020-07-23 [11:25:19] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-23 [11:25:19] [Server thread/INFO]: This server is running HunterXDragon version 3.14.2
+2020-07-23 [11:25:19] [Server thread/INFO]: HunterXDragon is distributed under the LGPL License
+2020-07-23 [11:25:20] [Server thread/INFO]: Loading resource packs...
+2020-07-23 [11:25:20] [Server thread/INFO]: Loading SAC v3.6.6
+2020-07-23 [11:25:20] [Server thread/CRITICAL]: Could not load plugin 'BossPlugin': Unknown dependency: Slapper
+2020-07-23 [11:25:20] [Server thread/INFO]: Loading SimpleAuth v2.1.3
+2020-07-23 [11:25:20] [Server thread/INFO]: Loading FloatingText v0.0.1
+2020-07-23 [11:25:20] [Server thread/INFO]: Loading AntiHack v1.0.0
+2020-07-23 [11:25:20] [Server thread/INFO]: Loading AuthUI v1.0.0
+2020-07-23 [11:25:20] [Server thread/INFO]: Enabling SAC v3.6.6
+2020-07-23 [11:25:20] [Server thread/INFO]: [ShadowAPI] > ShadowAPI Loaded
+2020-07-23 [11:25:20] [Server thread/INFO]: [SAC] > ShadowAntiCheat Activated
+2020-07-23 [11:25:20] [Server thread/INFO]: [SAC] > ShadowAntiCheat v3.6.6 [Phantom] @ ShadowAPI 1.2 [Ghost]
+2020-07-23 [11:25:20] [Server thread/INFO]: [SAC] > Loaded 9 Modules
+2020-07-23 [11:25:20] [Server thread/INFO]: [SAC] > For more information type /sac or /sacmodules or /sacauramodules
+2020-07-23 [11:25:20] [Server thread/INFO]: Enabling SimpleAuth v2.1.3
+2020-07-23 [11:25:20] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2020-07-23 [11:25:20] [Server thread/INFO]: Preparing world "world"
+2020-07-23 [11:25:20] [Server thread/INFO]: Enabling FloatingText v0.0.1
+2020-07-23 [11:25:20] [Server thread/INFO]: Enabling AntiHack v1.0.0
+2020-07-23 [11:25:20] [Server thread/INFO]: Enabling AuthUI v1.0.0
+2020-07-23 [11:25:20] [Server thread/INFO]: [AuthUI] AuthUI successfully loaded.
+2020-07-23 [11:25:20] [Server thread/INFO]: Starting GS4 status listener
+2020-07-23 [11:25:20] [Server thread/INFO]: Setting query port to 19132
+2020-07-23 [11:25:20] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-07-23 [11:25:20] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-23 [11:25:20] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-23 [11:25:20] [Server thread/INFO]: Done (0.834s)! For help, type "help" or "?"
+2020-07-23 [11:25:34] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2020-07-23 [11:25:34] [Server thread/INFO]: /authui: AuthUI info
+2020-07-23 [11:25:34] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2020-07-23 [11:25:34] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2020-07-23 [11:25:34] [Server thread/INFO]: /banlist: View all players banned from this server
+2020-07-23 [11:25:34] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2020-07-23 [11:25:34] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2020-07-23 [11:25:34] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2020-07-23 [11:25:34] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2020-07-23 [11:25:34] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2020-07-23 [11:25:34] [Server thread/INFO]: /enchant: Adds enchantments on items
+2020-07-23 [11:25:34] [Server thread/INFO]: /floatingtext: 
+2020-07-23 [11:25:34] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2020-07-23 [11:25:34] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2020-07-23 [11:25:34] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2020-07-23 [11:25:34] [Server thread/INFO]: /help: Shows the help menu
+2020-07-23 [11:25:34] [Server thread/INFO]: /kick: Removes the specified player from the server
+2020-07-23 [11:25:34] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2020-07-23 [11:25:34] [Server thread/INFO]: /link: Links an account
+2020-07-23 [11:25:34] [Server thread/INFO]: /list: Lists all online players
+2020-07-23 [11:25:34] [Server thread/INFO]: /login: Logs into an account
+2020-07-23 [11:25:34] [Server thread/INFO]: /me: Performs the specified action in chat
+2020-07-23 [11:25:34] [Server thread/INFO]: /op: Gives the specified player operator status
+2020-07-23 [11:25:34] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2020-07-23 [11:25:34] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2020-07-23 [11:25:34] [Server thread/INFO]: /particle: Adds particles to a world
+2020-07-23 [11:25:34] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2020-07-23 [11:25:34] [Server thread/INFO]: /register: Registers an account
+2020-07-23 [11:25:34] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2020-07-23 [11:25:34] [Server thread/INFO]: /sac: Shows ShadowAntiCheat version
+2020-07-23 [11:25:34] [Server thread/INFO]: /sacauramodules: Shows loaded ShadowAntiCheat KillAura Check modules
+2020-07-23 [11:25:34] [Server thread/INFO]: /sacmodules: Shows loaded ShadowAntiCheat modules
+2020-07-23 [11:25:34] [Server thread/INFO]: /save-all: Saves the server to disk
+2020-07-23 [11:25:34] [Server thread/INFO]: /save-off: Disables server autosaving
+2020-07-23 [11:25:34] [Server thread/INFO]: /save-on: Enables server autosaving
+2020-07-23 [11:25:34] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2020-07-23 [11:25:34] [Server thread/INFO]: /seed: Shows the world seed
+2020-07-23 [11:25:34] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2020-07-23 [11:25:34] [Server thread/INFO]: /shadowanticheat: Shows ShadowAntiCheat version
+2020-07-23 [11:25:34] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2020-07-23 [11:25:34] [Server thread/INFO]: /status: Reads back the server's performance.
+2020-07-23 [11:25:34] [Server thread/INFO]: /stop: Stops the server
+2020-07-23 [11:25:34] [Server thread/INFO]: /tell: Sends a private message to the given player
+2020-07-23 [11:25:34] [Server thread/INFO]: /time: Changes the time on each world
+2020-07-23 [11:25:34] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2020-07-23 [11:25:34] [Server thread/INFO]: /title: Controls screen titles
+2020-07-23 [11:25:34] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2020-07-23 [11:25:34] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2020-07-23 [11:25:34] [Server thread/INFO]: /unlink: Unlinks linked accounts
+2020-07-23 [11:25:34] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2020-07-23 [11:29:33] [Server thread/NOTICE]: Player data not found for "texanhipster", creating new profile
+2020-07-23 [11:29:37] [Server thread/INFO]: TexanHipster[/192.168.0.11:36146] logged in with entity id 1 at (world, 256, 68, 256)
+2020-07-23 [11:29:44] [Server thread/INFO]: TexanHipster joined the game
+2020-07-23 [11:33:17] [Server thread/INFO]: Diamond[/127.0.0.1:44934] logged out due to client disconnect
+2020-07-23 [11:33:17] [Server thread/INFO]: TexDrak 1[/127.0.0.1:54667] logged out due to client disconnect
+2020-07-23 [11:33:17] [Server thread/ERROR]: Player Diamond was disconnected before their login could be verified
+2020-07-23 [11:33:17] [Server thread/ERROR]: Player TexDrak 1 was disconnected before their login could be verified
+2020-07-23 [11:33:17] [Server thread/NOTICE]: Player data not found for "diamond", creating new profile
+2020-07-23 [11:33:18] [Server thread/INFO]: TexDrak 1[/127.0.0.1:54667] logged in with entity id 3 at (world, 206.0506, 72.001, 230.422)
+2020-07-23 [11:33:18] [Server thread/INFO]: Diamond[/127.0.0.1:55317] logged in with entity id 4 at (world, 256, 68, 256)
+2020-07-23 [11:33:25] [Server thread/INFO]: Diamond joined the game
+2020-07-23 [11:33:31] [Server thread/INFO]: TexDrak 1 joined the game
+2020-07-23 [11:34:02] [Server thread/INFO]: TexDrak 1 was slain by TexanHipster
+2020-07-23 [11:34:43] [Server thread/INFO]: Diamond left the game
+2020-07-23 [11:34:43] [Server thread/INFO]: Diamond[/127.0.0.1:55317] logged out due to timeout
+2020-07-23 [11:34:44] [Server thread/INFO]: TexDrak 1 left the game
+2020-07-23 [11:34:44] [Server thread/INFO]: TexDrak 1[/127.0.0.1:54667] logged out due to timeout
+2020-07-23 [11:36:38] [Server thread/INFO]: TexDrak 1[/127.0.0.1:54667] logged in with entity id 7 at (world, 256, 68, 256)
+2020-07-23 [11:36:50] [Server thread/INFO]: TexDrak 1 joined the game
+2020-07-23 [11:40:15] [Server thread/INFO]: [CONSOLE: Opped TexanHipster]
+2020-07-23 [11:40:49] [Server thread/INFO]: [TexanHipster: Opped texdrak]
+2020-07-23 [11:40:55] [Server thread/INFO]: <TexDrak 1> 5
+2020-07-23 [11:41:23] [Server thread/INFO]: TexDrak 1 left the game
+2020-07-23 [11:41:23] [Server thread/INFO]: TexDrak 1[/127.0.0.1:54667] logged out due to client disconnect
+2020-07-23 [11:43:05] [Server thread/NOTICE]: Player data not found for "texdrak", creating new profile
+2020-07-23 [11:43:06] [Server thread/INFO]: TexDrak[/127.0.0.1:54667] logged in with entity id 15 at (world, 256, 68, 256)
+2020-07-23 [11:43:19] [Server thread/INFO]: TexDrak joined the game
+2020-07-23 [11:43:48] [Server thread/INFO]: [TexDrak: Set own game mode to Creative Mode]
+2020-07-23 [11:49:17] [Server thread/INFO]: [TexDrak: Given Stone (1:0) * 1 to TexDrak]
+2020-07-23 [11:49:22] [Server thread/INFO]: [TexDrak: Given Emerald (388:0) * 1 to TexDrak]
+2020-07-23 [11:49:49] [Server thread/INFO]: [TexDrak: Given Unknown (137:0) * 1 to TexDrak]
+2020-07-23 [11:57:55] [Server thread/INFO]: TexanHipster left the game
+2020-07-23 [11:57:55] [Server thread/INFO]: TexanHipster[/192.168.0.11:36146] logged out due to timeout
+2020-07-23 [11:57:55] [Server thread/INFO]: TexDrak left the game
+2020-07-23 [11:57:55] [Server thread/INFO]: TexDrak[/127.0.0.1:54667] logged out due to timeout
+2020-07-23 [11:59:18] [Server thread/INFO]: TexDrak[/127.0.0.1:54667] logged in with entity id 17 at (world, 137.7, 77, 306.705)
+2020-07-23 [11:59:31] [Server thread/INFO]: TexDrak joined the game
+2020-07-23 [12:02:44] [Server thread/INFO]: TexDrak left the game
+2020-07-23 [12:02:44] [Server thread/INFO]: TexDrak[/127.0.0.1:54667] logged out due to client disconnect
+2020-07-23 [12:03:08] [Server thread/INFO]: TexDrak[/127.0.0.1:54667] logged in with entity id 18 at (world, 172.4816, 81, 338.1252)
+2020-07-23 [12:03:22] [Server thread/INFO]: TexDrak joined the game
+2020-07-23 [12:07:24] [Server thread/INFO]: TexDrak left the game
+2020-07-23 [12:07:24] [Server thread/INFO]: TexDrak[/127.0.0.1:54667] logged out due to timeout
+2020-07-23 [12:10:13] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2020-07-23 [12:10:16] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2020-07-23 [12:10:16] [Server thread/INFO]: /authui: AuthUI info
+2020-07-23 [12:10:16] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2020-07-23 [12:10:16] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2020-07-23 [12:10:16] [Server thread/INFO]: /banlist: View all players banned from this server
+2020-07-23 [12:10:16] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2020-07-23 [12:10:16] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2020-07-23 [12:10:16] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2020-07-23 [12:10:16] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2020-07-23 [12:10:16] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2020-07-23 [12:10:16] [Server thread/INFO]: /enchant: Adds enchantments on items
+2020-07-23 [12:10:16] [Server thread/INFO]: /floatingtext: 
+2020-07-23 [12:10:16] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2020-07-23 [12:10:16] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2020-07-23 [12:10:16] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2020-07-23 [12:10:16] [Server thread/INFO]: /help: Shows the help menu
+2020-07-23 [12:10:16] [Server thread/INFO]: /kick: Removes the specified player from the server
+2020-07-23 [12:10:16] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2020-07-23 [12:10:16] [Server thread/INFO]: /link: Links an account
+2020-07-23 [12:10:16] [Server thread/INFO]: /list: Lists all online players
+2020-07-23 [12:10:16] [Server thread/INFO]: /login: Logs into an account
+2020-07-23 [12:10:16] [Server thread/INFO]: /me: Performs the specified action in chat
+2020-07-23 [12:10:16] [Server thread/INFO]: /op: Gives the specified player operator status
+2020-07-23 [12:10:16] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2020-07-23 [12:10:16] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2020-07-23 [12:10:16] [Server thread/INFO]: /particle: Adds particles to a world
+2020-07-23 [12:10:16] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2020-07-23 [12:10:16] [Server thread/INFO]: /register: Registers an account
+2020-07-23 [12:10:16] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2020-07-23 [12:10:16] [Server thread/INFO]: /sac: Shows ShadowAntiCheat version
+2020-07-23 [12:10:16] [Server thread/INFO]: /sacauramodules: Shows loaded ShadowAntiCheat KillAura Check modules
+2020-07-23 [12:10:16] [Server thread/INFO]: /sacmodules: Shows loaded ShadowAntiCheat modules
+2020-07-23 [12:10:16] [Server thread/INFO]: /save-all: Saves the server to disk
+2020-07-23 [12:10:16] [Server thread/INFO]: /save-off: Disables server autosaving
+2020-07-23 [12:10:16] [Server thread/INFO]: /save-on: Enables server autosaving
+2020-07-23 [12:10:16] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2020-07-23 [12:10:16] [Server thread/INFO]: /seed: Shows the world seed
+2020-07-23 [12:10:16] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2020-07-23 [12:10:16] [Server thread/INFO]: /shadowanticheat: Shows ShadowAntiCheat version
+2020-07-23 [12:10:16] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2020-07-23 [12:10:16] [Server thread/INFO]: /status: Reads back the server's performance.
+2020-07-23 [12:10:16] [Server thread/INFO]: /stop: Stops the server
+2020-07-23 [12:10:16] [Server thread/INFO]: /tell: Sends a private message to the given player
+2020-07-23 [12:10:16] [Server thread/INFO]: /time: Changes the time on each world
+2020-07-23 [12:10:16] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2020-07-23 [12:10:16] [Server thread/INFO]: /title: Controls screen titles
+2020-07-23 [12:10:16] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2020-07-23 [12:10:16] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2020-07-23 [12:10:16] [Server thread/INFO]: /unlink: Unlinks linked accounts
+2020-07-23 [12:10:16] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2020-07-23 [12:11:33] [Server thread/NOTICE]: Player data not found for "zerodemons8929", creating new profile
+2020-07-23 [12:11:34] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:43817] logged in with entity id 21 at (world, 256, 68, 256)
+2020-07-23 [12:11:43] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [12:14:30] [Server thread/INFO]: <ZeroDemons8929> ฮาโหลลลลลลล
+2020-07-23 [12:15:06] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [12:15:06] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:43817] logged out due to client disconnect
+2020-07-23 [12:25:58] [Server thread/INFO]: TexDrak[/127.0.0.1:44471] logged in with entity id 22 at (world, 199.1968, 74.0595, 240.6821)
+2020-07-23 [12:26:12] [Server thread/INFO]: TexDrak joined the game
+2020-07-23 [12:29:35] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged in with entity id 23 at (world, 224.8359, 70, 280.9962)
+2020-07-23 [12:29:45] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [12:30:01] [Server thread/INFO]: [TexDrak: Set own game mode to Survival Mode]
+2020-07-23 [12:31:32] [Server thread/INFO]: ZeroDemons8929 has just earned the achievement Getting Wood
+2020-07-23 [12:31:46] [Server thread/INFO]: ZeroDemons8929 has just earned the achievement Benchmarking
+2020-07-23 [12:31:51] [Server thread/INFO]: ZeroDemons8929 has just earned the achievement Time to Strike!
+2020-07-23 [12:32:27] [Server thread/INFO]: Diamond[/127.0.0.1:37244] logged in with entity id 33 at (world, 208.642, 73, 227.191)
+2020-07-23 [12:32:33] [Server thread/INFO]: Diamond joined the game
+2020-07-23 [12:36:21] [Server thread/INFO]: ZeroDemons8929 fell from a high place
+2020-07-23 [12:37:43] [Server thread/INFO]: TexDrak has just earned the achievement Getting Wood
+2020-07-23 [12:40:12] [Server thread/INFO]: ZeroDemons8929 has just earned the achievement Time to Mine!
+2020-07-23 [12:40:50] [Server thread/INFO]: Diamond has just earned the achievement Getting Wood
+2020-07-23 [12:41:06] [Server thread/INFO]: Diamond has just earned the achievement Benchmarking
+2020-07-23 [12:41:12] [Server thread/INFO]: Diamond has just earned the achievement Time to Mine!
+2020-07-23 [12:41:30] [Server thread/INFO]: [TexDrak: Given Cake (354:0) * 1 to TexDrak]
+2020-07-23 [12:41:58] [Server thread/INFO]: [TexDrak: Given Cake (354:0) * 1 to TexDrak]
+2020-07-23 [12:42:03] [Server thread/INFO]: Diamond has just earned the achievement Getting an Upgrade
+2020-07-23 [12:43:29] [Server thread/INFO]: Diamond left the game
+2020-07-23 [12:43:29] [Server thread/INFO]: Diamond[/127.0.0.1:37244] logged out due to timeout
+2020-07-23 [12:51:26] [Server thread/NOTICE]: Player data not found for "4atp", creating new profile
+2020-07-23 [12:51:27] [Server thread/INFO]: 4ATP[/127.0.0.1:37862] logged in with entity id 324 at (world, 256, 68, 256)
+2020-07-23 [12:51:40] [Server thread/INFO]: 4ATP joined the game
+2020-07-23 [12:51:42] [Server thread/INFO]: 4ATP left the game
+2020-07-23 [12:51:42] [Server thread/INFO]: 4ATP[/127.0.0.1:37862] logged out due to Kicked by admin. Reason: คุณไม่ได้ตั้งรหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-23 [12:52:32] [Server thread/NOTICE]: Player data not found for "redy", creating new profile
+2020-07-23 [12:52:33] [Server thread/INFO]: redy[/127.0.0.1:42191] logged in with entity id 331 at (world, 256, 68, 256)
+2020-07-23 [12:52:40] [Server thread/INFO]: redy joined the game
+2020-07-23 [12:53:11] [Server thread/INFO]: redy left the game
+2020-07-23 [12:53:11] [Server thread/INFO]: redy[/127.0.0.1:42191] logged out due to timeout
+2020-07-23 [12:56:14] [Server thread/INFO]: ZeroDemons8929 fell from a high place
+2020-07-23 [12:56:30] [Server thread/NOTICE]: Player data not found for "ai87949686", creating new profile
+2020-07-23 [12:56:31] [Server thread/INFO]: AI87949686[/127.0.0.1:56576] logged in with entity id 358 at (world, 256, 68, 256)
+2020-07-23 [12:56:38] [Server thread/INFO]: AI87949686 joined the game
+2020-07-23 [12:57:35] [Server thread/NOTICE]: Player data not found for "entity 303", creating new profile
+2020-07-23 [12:57:36] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 359 at (world, 256, 68, 256)
+2020-07-23 [12:57:43] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [12:57:56] [Server thread/INFO]: AI87949686 has just earned the achievement Getting Wood
+2020-07-23 [12:58:01] [Server thread/INFO]: Entity 303 was slain by ZeroDemons8929
+2020-07-23 [12:58:28] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [12:58:28] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged out due to Kicked by admin. Reason: [SAC] > Suspicious Combat Behavoir!
+2020-07-23 [12:58:28] [Server thread/INFO]: [SAC] > ZeroDemons8929 was kicked for hacking. I am always watching you.
+2020-07-23 [12:58:42] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged in with entity id 381 at (world, 252.4924, 69, 264.238)
+2020-07-23 [12:58:51] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [12:59:36] [Server thread/INFO]: [TexDrak: Teleported TexDrak to AI87949686]
+2020-07-23 [12:59:39] [Server thread/INFO]: Entity 303 was slain by ZeroDemons8929
+2020-07-23 [13:00:05] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [13:00:05] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Suspicious Combat Behavoir!
+2020-07-23 [13:00:05] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [13:00:26] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 407 at (world, 223.4542, 64, 326.991)
+2020-07-23 [13:00:35] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [13:00:52] [Server thread/INFO]: Entity 303 has just earned the achievement Getting Wood
+2020-07-23 [13:01:08] [Server thread/INFO]: Entity 303 has just earned the achievement Benchmarking
+2020-07-23 [13:01:48] [Server thread/INFO]: Entity 303 has just earned the achievement Time to Mine!
+2020-07-23 [13:03:16] [Server thread/INFO]: Entity 303 has just earned the achievement Getting an Upgrade
+2020-07-23 [13:04:14] [Server thread/INFO]: TexDrak fell from a high place
+2020-07-23 [13:04:33] [Server thread/INFO]: [TexDrak: Teleported TexDrak to AI87949686]
+2020-07-23 [13:04:42] [Server thread/INFO]: [TexDrak: Given Cake (354:0) * 64 to TexDrak]
+2020-07-23 [13:08:07] [Server thread/INFO]: [TexDrak: Teleported TexDrak to Entity 303]
+2020-07-23 [13:10:03] [Server thread/INFO]: AI87949686 has just earned the achievement Benchmarking
+2020-07-23 [13:10:20] [Server thread/INFO]: TexDrak was slain by ZeroDemons8929
+2020-07-23 [13:10:37] [Server thread/INFO]: [TexDrak: Teleported TexDrak to AI87949686]
+2020-07-23 [13:10:59] [Server thread/INFO]: [TexDrak: Given Cake (354:0) * 64 to TexDrak]
+2020-07-23 [13:12:44] [Server thread/INFO]: Entity 303 has just earned the achievement Time to Farm!
+2020-07-23 [13:13:13] [Server thread/INFO]: Entity 303 has just earned the achievement Hot Topic
+2020-07-23 [13:14:27] [Server thread/INFO]: ZeroDemons8929 has just earned the achievement Hot Topic
+2020-07-23 [13:14:28] [Server thread/INFO]: ZeroDemons8929 has just earned the achievement Getting an Upgrade
+2020-07-23 [13:16:05] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [13:16:05] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to timeout
+2020-07-23 [13:16:40] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 940 at (world, 340.1369, 55, 179.7854)
+2020-07-23 [13:16:47] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [13:18:39] [Server thread/INFO]: [TexDrak: Set own game mode to Creative Mode]
+2020-07-23 [13:20:16] [Server thread/INFO]: [TexDrak: Teleported TexDrak to ZeroDemons8929]
+2020-07-23 [13:20:38] [Server thread/INFO]: [TexDrak: Teleported TexDrak to Entity 303]
+2020-07-23 [13:21:13] [Server thread/INFO]: [TexDrak: Teleported TexDrak to AI87949686]
+2020-07-23 [13:21:19] [Server thread/INFO]: [TexDrak: Set own game mode to Survival Mode]
+2020-07-23 [13:25:18] [Server thread/INFO]: [TexDrak] 1
+2020-07-23 [13:27:51] [Server thread/INFO]: Entity 303 was slain by ZeroDemons8929
+2020-07-23 [13:28:28] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [13:28:28] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to timeout
+2020-07-23 [13:29:32] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [13:29:32] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged out due to client disconnect
+2020-07-23 [13:33:53] [Server thread/INFO]: TexDrak left the game
+2020-07-23 [13:33:53] [Server thread/INFO]: TexDrak[/127.0.0.1:44471] logged out due to client disconnect
+2020-07-23 [13:34:36] [Server thread/INFO]: TexDrak[/127.0.0.1:44471] logged in with entity id 1605 at (world, -365.946, 65, 357.9168)
+2020-07-23 [13:34:49] [Server thread/INFO]: AI87949686 has just earned the achievement Time to Mine!
+2020-07-23 [13:34:50] [Server thread/INFO]: TexDrak joined the game
+2020-07-23 [13:36:41] [Server thread/INFO]: AI87949686 has just earned the achievement Getting an Upgrade
+2020-07-23 [13:36:45] [Server thread/INFO]: AI87949686 has just earned the achievement Hot Topic
+2020-07-23 [13:47:36] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged in with entity id 1727 at (world, 278.8232, 70, 374.1292)
+2020-07-23 [13:47:45] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [13:50:52] [Server thread/INFO]: [TexDrak: Set own game mode to Creative Mode]
+2020-07-23 [13:50:56] [Server thread/INFO]: [TexDrak: Teleported TexDrak to ZeroDemons8929]
+2020-07-23 [13:52:16] [Server thread/INFO]: [TexDrak: Teleported TexDrak to AI87949686]
+2020-07-23 [13:52:21] [Server thread/INFO]: [TexDrak: Set own game mode to Survival Mode]
+2020-07-23 [13:59:28] [Server thread/INFO]: <ZeroDemons8929> แปป
+2020-07-23 [13:59:37] [Server thread/INFO]: <ZeroDemons8929> คอมดับ
+2020-07-23 [13:59:43] [Server thread/INFO]: <TexDrak> 555
+2020-07-23 [14:01:31] [Server thread/INFO]: <ZeroDemons8929> เศร้าเลย
+2020-07-23 [14:01:44] [Server thread/INFO]: <TexDrak> เดี้ยวก็หายดับ
+2020-07-23 [14:02:06] [Server thread/INFO]: <ZeroDemons8929> เจ็บร้อนใน
+2020-07-23 [14:13:18] [Server thread/INFO]: AI87949686 left the game
+2020-07-23 [14:13:18] [Server thread/INFO]: AI87949686[/127.0.0.1:56576] logged out due to timeout
+2020-07-23 [14:23:30] [Server thread/INFO]: Diamond[/127.0.0.1:37268] logged in with entity id 2042 at (world, 478.3462, 68, -65.9829)
+2020-07-23 [14:23:37] [Server thread/INFO]: Diamond joined the game
+2020-07-23 [14:26:57] [Server thread/INFO]: Diamond hit the ground too hard
+2020-07-23 [14:33:40] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:34:39] [Server thread/INFO]: Diamond was slain by ZeroDemons8929
+2020-07-23 [14:36:17] [Server thread/INFO]: [/127.0.0.1:41925] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-23 [14:36:36] [Server thread/INFO]: [TexDrak: Set own game mode to Creative Mode]
+2020-07-23 [14:37:43] [Server thread/INFO]: Diamond left the game
+2020-07-23 [14:37:43] [Server thread/INFO]: Diamond[/127.0.0.1:37268] logged out due to client disconnect
+2020-07-23 [14:37:58] [Server thread/INFO]: Diamond[/127.0.0.1:37268] logged in with entity id 2253 at (world, 270.4417, 65, 376.8524)
+2020-07-23 [14:38:04] [Server thread/INFO]: Diamond joined the game
+2020-07-23 [14:42:05] [Server thread/INFO]: Diamond has just earned the achievement Hot Topic
+2020-07-23 [14:45:14] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:45:21] [Server thread/NOTICE]: Player data not found for "severalm", creating new profile
+2020-07-23 [14:45:22] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged in with entity id 2382 at (world, 256, 68, 256)
+2020-07-23 [14:45:45] [Server thread/INFO]: SeveralM joined the game
+2020-07-23 [14:45:51] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:46:06] [Server thread/INFO]: <SeveralM> เเอดคับ
+2020-07-23 [14:46:13] [Server thread/INFO]: <TexDrak> ครับ
+2020-07-23 [14:46:21] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:46:22] [Server thread/INFO]: <SeveralM> ลงปลั๊กอินยังไง
+2020-07-23 [14:46:42] [Server thread/INFO]: SeveralM left the game
+2020-07-23 [14:46:42] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged out due to Kicked by admin. Reason: [SAC] > Speed is not allowed!
+2020-07-23 [14:46:42] [Server thread/INFO]: [SAC] > SeveralM was kicked for hacking. I am always watching you.
+2020-07-23 [14:47:02] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:47:09] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:47:48] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:47:55] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:48:07] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:48:28] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:48:49] [Server thread/INFO]: Diamond was slain by ZeroDemons8929
+2020-07-23 [14:50:04] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:50:13] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:50:25] [Server thread/INFO]: ZeroDemons8929 was slain by Diamond
+2020-07-23 [14:50:27] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [14:50:27] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged out due to client disconnect
+2020-07-23 [14:54:24] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged in with entity id 2671 at (world, 213.0364, 72.1661, 277.1482)
+2020-07-23 [14:54:47] [Server thread/INFO]: SeveralM joined the game
+2020-07-23 [14:54:48] [Server thread/INFO]: SeveralM left the game
+2020-07-23 [14:54:48] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged out due to Kicked by admin. Reason: [SAC] > Fly is not allowed!
+2020-07-23 [14:54:48] [Server thread/INFO]: [SAC] > SeveralM was kicked for hacking. I am always watching you.
+2020-07-23 [14:55:06] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged in with entity id 2691 at (world, 213.0364, 72.1671, 277.1482)
+2020-07-23 [14:55:39] [Server thread/INFO]: SeveralM joined the game
+2020-07-23 [14:55:45] [Server thread/INFO]: SeveralM left the game
+2020-07-23 [14:55:45] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged out due to Kicked by admin. Reason: [SAC] > Glide is not allowed!
+2020-07-23 [14:55:45] [Server thread/INFO]: [SAC] > SeveralM was kicked for hacking. I am always watching you.
+2020-07-23 [14:56:19] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged in with entity id 2723 at (world, 213.0364, 72.1671, 277.1482)
+2020-07-23 [14:56:47] [Server thread/INFO]: SeveralM joined the game
+2020-07-23 [14:56:53] [Server thread/INFO]: SeveralM left the game
+2020-07-23 [14:56:53] [Server thread/INFO]: SeveralM[/127.0.0.1:48908] logged out due to Kicked by admin. Reason: [SAC] > Glide is not allowed!
+2020-07-23 [14:56:53] [Server thread/INFO]: [SAC] > SeveralM was kicked for hacking. I am always watching you.
+2020-07-23 [14:57:43] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged in with entity id 2745 at (world, 278, 70, 371)
+2020-07-23 [14:57:53] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [14:57:56] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [14:57:56] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged out due to Kicked by admin. Reason: [SAC] > Glide is not allowed!
+2020-07-23 [14:57:56] [Server thread/INFO]: [SAC] > ZeroDemons8929 was kicked for hacking. I am always watching you.
+2020-07-23 [14:58:10] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged in with entity id 2746 at (world, 278.5, 69.7674, 371.5)
+2020-07-23 [14:58:19] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [14:58:36] [Server thread/INFO]: ZeroDemons8929 fell from a high place
+2020-07-23 [15:10:40] [Server thread/INFO]: [TexDrak: Set own game mode to Survival Mode]
+2020-07-23 [15:10:59] [Server thread/INFO]: [TexDrak: Set own game mode to Creative Mode]
+2020-07-23 [15:12:08] [Server thread/INFO]: Diamond left the game
+2020-07-23 [15:12:08] [Server thread/INFO]: Diamond[/127.0.0.1:37268] logged out due to client disconnect
+2020-07-23 [15:22:15] [Server thread/INFO]: [TexDrak: Set ZeroDemons8929's game mode to Creative Mode]
+2020-07-23 [15:22:15] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [15:22:15] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:41057] logged out due to timeout
+2020-07-23 [15:33:08] [Server thread/INFO]: AI87949686[/127.0.0.1:44933] logged in with entity id 2941 at (world, -384.3, 31, 374.7)
+2020-07-23 [15:33:14] [Server thread/INFO]: AI87949686 joined the game
+2020-07-23 [15:48:08] [Server thread/INFO]: [TexDrak: Set own game mode to Survival Mode]
+2020-07-23 [15:52:19] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:36950] logged in with entity id 3426 at (world, 241.7, 62, 368.3)
+2020-07-23 [15:52:32] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [16:01:28] [Server thread/NOTICE]: Player data not found for "omolvg", creating new profile
+2020-07-23 [16:01:29] [Server thread/INFO]: OMOLVG[/127.0.0.1:46729] logged in with entity id 3466 at (world, 256, 68, 256)
+2020-07-23 [16:01:35] [Server thread/INFO]: OMOLVG joined the game
+2020-07-23 [16:01:51] [Server thread/INFO]: <ZeroDemons8929> ดีครับ
+2020-07-23 [16:02:04] [Server thread/INFO]: Diamond[/127.0.0.1:37312] logged in with entity id 3471 at (world, 391.1483, 53, 334.7)
+2020-07-23 [16:02:07] [Server thread/INFO]: <ZeroDemons8929> ใส่เลขที่ช่องให้จำได้นะครับ
+2020-07-23 [16:02:10] [Server thread/INFO]: Diamond joined the game
+2020-07-23 [16:02:16] [Server thread/INFO]: <OMOLVG> สวัสดีครับ
+2020-07-23 [16:02:38] [Server thread/INFO]: <ZeroDemons8929> เรามาเทสเซิฟเวอร์
+2020-07-23 [16:03:05] [Server thread/INFO]: <ZeroDemons8929> คุณจะได้เป็นส่วนหนึ่งของการทส
+2020-07-23 [16:03:08] [Server thread/INFO]: <ZeroDemons8929> เทส
+2020-07-23 [16:03:24] [Server thread/INFO]: <OMOLVG> เบต้าเทส?
+2020-07-23 [16:03:32] [Server thread/INFO]: <ZeroDemons8929> ระบบนี้คือปลั๊คอินไม่ใช่คอมมาน
+2020-07-23 [16:04:07] [Server thread/INFO]: OMOLVG left the game
+2020-07-23 [16:04:07] [Server thread/INFO]: OMOLVG[/127.0.0.1:46729] logged out due to client disconnect
+2020-07-23 [16:06:01] [Server thread/INFO]: Diamond fell from a high place
+2020-07-23 [16:06:59] [Server thread/INFO]: Diamond suffocated in a wall
+2020-07-23 [16:08:10] [Server thread/INFO]: [TexDrak: Set Diamond's game mode to Creative Mode]
+2020-07-23 [16:09:35] [Server thread/INFO]: [TexDrak: Opped Diamond]
+2020-07-23 [16:09:43] [Server thread/INFO]: <ZeroDemons8929> 0/
+2020-07-23 [16:09:43] [Server thread/INFO]: [Diamond: Teleported Diamond to AI87949686]
+2020-07-23 [16:11:55] [Server thread/INFO]: TexDrak left the game
+2020-07-23 [16:11:55] [Server thread/INFO]: TexDrak[/127.0.0.1:44471] logged out due to timeout
+2020-07-23 [16:11:55] [Server thread/INFO]: AI87949686 left the game
+2020-07-23 [16:11:55] [Server thread/INFO]: AI87949686[/127.0.0.1:44933] logged out due to timeout
+2020-07-23 [16:11:55] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [16:11:55] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:36950] logged out due to timeout
+2020-07-23 [16:11:55] [Server thread/INFO]: Diamond left the game
+2020-07-23 [16:11:55] [Server thread/INFO]: Diamond[/127.0.0.1:37312] logged out due to timeout
+2020-07-23 [16:12:55] [Server thread/INFO]: TexDrak[/127.0.0.1:44471] logged in with entity id 3629 at (world, -322.5317, 66, 315.7386)
+2020-07-23 [16:13:03] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:36950] logged in with entity id 3632 at (world, -523.0883, 73.3166, -53.6043)
+2020-07-23 [16:13:08] [Server thread/INFO]: TexDrak joined the game
+2020-07-23 [16:13:14] [Server thread/INFO]: ZeroDemons8929 joined the game
+2020-07-23 [16:14:22] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3635 at (world, 267.833, 68, 254.6496)
+2020-07-23 [16:14:30] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:15:10] [Server thread/INFO]: [TexDrak: Teleported TexDrak to Entity 303]
+2020-07-23 [16:17:20] [Server thread/INFO]: Diamond[/127.0.0.1:37312] logged in with entity id 3661 at (world, -403.1935, 77, 437.0925)
+2020-07-23 [16:17:26] [Server thread/INFO]: Diamond joined the game
+2020-07-23 [16:18:09] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:18:09] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Speed is not allowed!
+2020-07-23 [16:18:09] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:18:37] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3682 at (world, 327.2749, 66.2522, 273.193)
+2020-07-23 [16:18:43] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:19:29] [Server thread/INFO]: AI87949686[/127.0.0.1:34182] logged in with entity id 3683 at (world, -341.7963, 67, 337.5748)
+2020-07-23 [16:19:35] [Server thread/INFO]: AI87949686 joined the game
+2020-07-23 [16:21:27] [Server thread/INFO]: Diamond left the game
+2020-07-23 [16:21:27] [Server thread/INFO]: Diamond[/127.0.0.1:37312] logged out due to timeout
+2020-07-23 [16:21:50] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:21:50] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Fly is not allowed!
+2020-07-23 [16:21:50] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:22:10] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3706 at (world, 327.4133, 65.804, 265.6788)
+2020-07-23 [16:22:19] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:22:31] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:22:31] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Speed is not allowed!
+2020-07-23 [16:22:31] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:22:42] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3738 at (world, 327.3812, 65, 267.1193)
+2020-07-23 [16:22:49] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:23:04] [Server thread/INFO]: Diamond[/127.0.0.1:37312] logged in with entity id 3759 at (world, -359.6395, 79, 420.0575)
+2020-07-23 [16:23:11] [Server thread/INFO]: Diamond joined the game
+2020-07-23 [16:23:11] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:23:11] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Speed is not allowed!
+2020-07-23 [16:23:11] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:23:22] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3798 at (world, 321.5534, 66, 271.3661)
+2020-07-23 [16:23:29] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:23:38] [Server thread/NOTICE]: Player data not found for "nick211562", creating new profile
+2020-07-23 [16:23:38] [Server thread/INFO]: Nick211562[/127.0.0.1:41402] logged in with entity id 3811 at (world, 256, 68, 256)
+2020-07-23 [16:23:42] [Server thread/INFO]: Nick211562 joined the game
+2020-07-23 [16:24:05] [Server thread/INFO]: <Nick211562> ให้ทำไร
+2020-07-23 [16:24:48] [Server thread/INFO]: Nick211562 left the game
+2020-07-23 [16:24:48] [Server thread/INFO]: Nick211562[/127.0.0.1:41402] logged out due to Kicked by admin. Reason: [SAC] > KillAura is not allowed!
+2020-07-23 [16:24:48] [Server thread/INFO]: [SAC] > Nick211562 was kicked for hacking. I am always watching you.
+2020-07-23 [16:25:36] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:25:36] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Fly is not allowed!
+2020-07-23 [16:25:36] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:25:49] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3924 at (world, 260.1514, 67.8818, 246.1685)
+2020-07-23 [16:25:56] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:25:57] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:25:57] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Fly is not allowed!
+2020-07-23 [16:25:57] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:26:08] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3931 at (world, 260.1514, 67.8818, 246.1685)
+2020-07-23 [16:26:15] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:26:21] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:26:21] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Glide is not allowed!
+2020-07-23 [16:26:21] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:26:31] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3952 at (world, 260.1514, 67.4186, 246.1685)
+2020-07-23 [16:26:38] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:26:41] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:26:41] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Glide is not allowed!
+2020-07-23 [16:26:41] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:26:53] [Server thread/INFO]: [/127.0.0.1:57027] logged out due to Incompatible protocol version (405)
+2020-07-23 [16:26:54] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3965 at (world, 260.1514, 66.9554, 246.1685)
+2020-07-23 [16:27:00] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:27:03] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:27:03] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Glide is not allowed!
+2020-07-23 [16:27:03] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:27:16] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3980 at (world, 260.1514, 66.9554, 246.1685)
+2020-07-23 [16:27:19] [Server thread/INFO]: [TexDrak: Teleported Entity 303 to Diamond]
+2020-07-23 [16:27:23] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:27:25] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:27:25] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Fly is not allowed!
+2020-07-23 [16:27:25] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:27:34] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged in with entity id 3987 at (world, -348.2143, 78.4593, 311.5367)
+2020-07-23 [16:27:41] [Server thread/INFO]: Entity 303 joined the game
+2020-07-23 [16:27:44] [Server thread/INFO]: Entity 303 left the game
+2020-07-23 [16:27:44] [Server thread/INFO]: Entity 303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Glide is not allowed!
+2020-07-23 [16:27:44] [Server thread/INFO]: [SAC] > Entity 303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:27:58] [Server thread/NOTICE]: Player data not found for "entity303", creating new profile
+2020-07-23 [16:27:58] [Server thread/INFO]: Entity303[/127.0.0.1:49492] logged in with entity id 3994 at (world, 256, 68, 256)
+2020-07-23 [16:28:05] [Server thread/INFO]: Entity303 joined the game
+2020-07-23 [16:29:13] [Server thread/INFO]: Entity303 left the game
+2020-07-23 [16:29:13] [Server thread/INFO]: Entity303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Suspicious Combat Behavoir!
+2020-07-23 [16:29:13] [Server thread/INFO]: [SAC] > Entity303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:29:22] [Server thread/INFO]: Entity303[/127.0.0.1:49492] logged in with entity id 4038 at (world, 271.9783, 67, 270.9569)
+2020-07-23 [16:29:29] [Server thread/INFO]: Entity303 joined the game
+2020-07-23 [16:32:48] [Server thread/INFO]: Entity303 left the game
+2020-07-23 [16:32:48] [Server thread/INFO]: Entity303[/127.0.0.1:49492] logged out due to Kicked by admin. Reason: [SAC] > Speed is not allowed!
+2020-07-23 [16:32:48] [Server thread/INFO]: [SAC] > Entity303 was kicked for hacking. I am always watching you.
+2020-07-23 [16:33:01] [Server thread/INFO]: Entity303[/127.0.0.1:49492] logged in with entity id 4057 at (world, 287.6555, 67, 294.6446)
+2020-07-23 [16:33:08] [Server thread/INFO]: Entity303 joined the game
+2020-07-23 [16:34:32] [Server thread/INFO]: [TexDrak: Teleported TexDrak to AI87949686]
+2020-07-23 [16:36:02] [Server thread/INFO]: AI87949686 left the game
+2020-07-23 [16:36:02] [Server thread/INFO]: AI87949686[/127.0.0.1:34182] logged out due to timeout
+2020-07-23 [16:39:02] [Server thread/INFO]: [TexDrak: Teleported TexDrak to Entity303]
+2020-07-23 [16:39:14] [Server thread/INFO]: [TexDrak: Teleported TexDrak to ZeroDemons8929]
+2020-07-23 [16:40:47] [Server thread/INFO]: [Diamond: Teleported Diamond to ZeroDemons8929]
+2020-07-23 [16:41:45] [Server thread/INFO]: <ZeroDemons8929> you nood
+2020-07-23 [16:45:40] [Server thread/INFO]: [TexDrak: Teleported Entity303 to ZeroDemons8929]
+2020-07-23 [16:47:04] [Server thread/INFO]: Entity303 was killed by magic
+2020-07-23 [16:47:44] [Server thread/INFO]: Entity303 has just earned the achievement Getting Wood
+2020-07-23 [16:47:45] [Server thread/INFO]: [Diamond: Set ZeroDemons8929's game mode to Survival Mode]
+2020-07-23 [16:48:01] [Server thread/INFO]: ZeroDemons8929 died
+2020-07-23 [16:48:01] [Server thread/INFO]: [Diamond: Killed ZeroDemons8929]
+2020-07-23 [16:49:51] [Server thread/INFO]: TexDrak was slain by ZeroDemons8929
+2020-07-23 [16:50:38] [Server thread/INFO]: [Diamond: Teleported Entity303 to ZeroDemons8929]
+2020-07-23 [16:50:39] [Server thread/INFO]: ZeroDemons8929 left the game
+2020-07-23 [16:50:39] [Server thread/INFO]: ZeroDemons8929[/127.0.0.1:36950] logged out due to timeout
+2020-07-23 [16:51:50] [Server thread/INFO]: Diamond left the game
+2020-07-23 [16:51:50] [Server thread/INFO]: Diamond[/127.0.0.1:37312] logged out due to client disconnect
+2020-07-23 [16:54:21] [Server thread/INFO]: Entity303 left the game
+2020-07-23 [16:54:21] [Server thread/INFO]: Entity303[/127.0.0.1:49492] logged out due to timeout
+2020-07-23 [16:55:17] [Server thread/INFO]: [/192.168.0.13:50622] logged out due to Incompatible protocol version (402)
+2020-07-23 [16:56:00] [Server thread/INFO]: [/192.168.0.13:50622] logged out due to Incompatible protocol version (402)
+2020-07-23 [16:57:09] [Server thread/INFO]: [/192.168.0.13:50622] logged out due to Incompatible protocol version (402)
+2020-07-23 [17:01:03] [Server thread/INFO]: [/192.168.0.13:50622] logged out due to Incompatible protocol version (402)
+2020-07-23 [17:06:05] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged in with entity id 4538 at (world, 157.7503, 75, 301.0905)
+2020-07-23 [17:06:13] [Server thread/INFO]: TexanHipster joined the game
+2020-07-23 [17:07:21] [Server thread/INFO]: [TexanHipster: Set own game mode to Creative Mode]
+2020-07-23 [17:08:36] [Server thread/INFO]: TexanHipster left the game
+2020-07-23 [17:08:36] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged out due to client disconnect
+2020-07-23 [17:08:44] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged in with entity id 4576 at (world, 278.3987, 67.7322, 278.6695)
+2020-07-23 [17:08:47] [Server thread/INFO]: TexanHipster joined the game
+2020-07-23 [17:09:01] [Server thread/INFO]: [TexanHipster: Set own game mode to Creative Mode]
+2020-07-23 [17:09:27] [Server thread/INFO]: TexanHipster left the game
+2020-07-23 [17:09:27] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged out due to timeout
+2020-07-23 [17:11:15] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged in with entity id 4587 at (world, 230.9322, 67.4538, 334.6525)
+2020-07-23 [17:11:18] [Server thread/INFO]: TexanHipster joined the game
+2020-07-23 [17:12:18] [Server thread/INFO]: [TexanHipster: Set own game mode to Creative Mode]
+2020-07-23 [17:13:07] [Server thread/INFO]: <TexanHipster> สวัสดีครับ
+2020-07-23 [17:13:10] [Server thread/INFO]: <TexanHipster> ไงครับ
+2020-07-23 [17:13:39] [Server thread/INFO]: TexDrak left the game
+2020-07-23 [17:13:39] [Server thread/INFO]: TexDrak[/127.0.0.1:44471] logged out due to timeout
+2020-07-23 [17:16:29] [Server thread/INFO]: TexanHipster left the game
+2020-07-23 [17:16:29] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged out due to client disconnect
+2020-07-23 [17:18:17] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged in with entity id 4607 at (world, 237.0851, 73.5532, 258.5099)
+2020-07-23 [17:18:20] [Server thread/INFO]: TexanHipster joined the game
+2020-07-23 [17:19:23] [Server thread/INFO]: [/127.0.0.1:53993] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-23 [17:19:31] [Server thread/INFO]: [TexanHipster: Turned on world auto-saving]
+2020-07-23 [17:19:40] [Server thread/INFO]: [TexanHipster: Saving server data...]
+2020-07-23 [17:19:40] [Server thread/INFO]: [TexanHipster: Save completed in 0.579 seconds]
+2020-07-23 [17:23:03] [Server thread/INFO]: TexanHipster left the game
+2020-07-23 [17:23:03] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged out due to client disconnect
+2020-07-23 [17:23:13] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged in with entity id 4633 at (world, -100.9342, 71.8187, 559.4308)
+2020-07-23 [17:23:16] [Server thread/INFO]: TexanHipster joined the game
+2020-07-23 [17:24:02] [Server thread/INFO]: TexanHipster left the game
+2020-07-23 [17:24:02] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged out due to timeout
+2020-07-23 [17:24:17] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged in with entity id 4640 at (world, -87.9749, 67, 570.3947)
+2020-07-23 [17:24:20] [Server thread/INFO]: TexanHipster joined the game
+2020-07-23 [17:24:31] [Server thread/INFO]: TexanHipster left the game
+2020-07-23 [17:24:31] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged out due to timeout
