@@ -1,0 +1,11 @@
+register-form-title: สมัครสมาชิก
+register-form-text1: ท่านคือผู้เล่นใหม่ จำเป็นต้องตั้งรหัสผ่าน ห้ามตั้งง่ายเกินไป 
+register-form-text2: ต§l§cั้งรหัสผ่าน
+register-form-password-field: §l§eใส่รหัสผ่าน
+register-form-empty-password-field: §l§cคุณไม่ได้ตั้งรหัสผ่าน §l§4(จึงหลุดออกจากเซืฟเวอร์)
+
+login-form-title: เข้าสู่ระบบ
+login-form-text1: ID นี้ เคยมีการสมัครไว้แล้ว ท่านต้องกรอกรหัสผ่านที่เคยสมัครไว้
+login-form-text2: §l§cรหัสผ่าน
+login-form-password-field: §l§eใส่รหัสผ่าน
+login-form-empty-password-field: §l§cคุณไม่ได้ใส่รหัสผ่าน §l§4(จึงหลุดออกจากเซืฟเวอร์)
