@@ -70,7 +70,7 @@
 #If yes, which message should be shown?
 
    KickPlayerMessageBool: true
-   KickPlayerMessage: "[SAC] > %PLAYER% was kicked for hacking. I am always watching you."
+   KickPlayerMessage: "§l§f %PLAYER% §l§cถูกเตะ เนื่องจากตรวจพบความผิดปกตื"
 
 #Should SAC show a message when someone gets banned?
 #If yes, which message should be shown?
@@ -234,7 +234,7 @@
 #This check is sneaky. It will suddenly kick the
 #hacker without any warning or hit canceling before.
 
-   FastClick: true
+   FastClick: false
 
 #How many hits per second should players be allowed to get?
 #Higher this if false positives occur.
