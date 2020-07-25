@@ -2172,3 +2172,1508 @@
 2020-07-23 [17:24:20] [Server thread/INFO]: TexanHipster joined the game
 2020-07-23 [17:24:31] [Server thread/INFO]: TexanHipster left the game
 2020-07-23 [17:24:31] [Server thread/INFO]: TexanHipster[/192.168.0.13:49437] logged out due to timeout
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading server properties...
+2020-07-24 [15:19:01] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-24 [15:19:01] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-24 [15:19:01] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2020-07-24 [15:19:01] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2020-07-24 [15:19:01] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2020-07-24 [15:19:01] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-24 [15:19:01] [Server thread/INFO]: This server is running เอาชีวิตรอดโดยไม่มีมอนเตอร์เกิด version 3.14.2
+2020-07-24 [15:19:01] [Server thread/INFO]: เอาชีวิตรอดโดยไม่มีมอนเตอร์เกิด is distributed under the LGPL License
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading resource packs...
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading MyPlot v1.7.0
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading SimpleAuth v2.1.3
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading AntiHack v1.0.0
+2020-07-24 [15:19:01] [Server thread/CRITICAL]: Could not load plugin 'BossPlugin': Unknown dependency: Slapper
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading PlotMenu v1.0.0
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading MultiWorld v1.6.0-beta1
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading AutoClearLagg v3.1.0
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading AuthUI v1.0.0
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading SAC v3.6.6
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading PurePerms v1.4.2
+2020-07-24 [15:19:01] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2020-07-24 [15:19:01] [Server thread/INFO]: [PurePerms] Multiworld support is currently disabled.
+2020-07-24 [15:19:01] [Server thread/INFO]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading FloatingText v0.0.1
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2020-07-24 [15:19:01] [Server thread/INFO]: Loading PureChat v1.4.11
+2020-07-24 [15:19:01] [Server thread/INFO]: Enabling MyPlot v1.7.0
+2020-07-24 [15:19:01] [Server thread/INFO]: Enabling SimpleAuth v2.1.3
+2020-07-24 [15:19:01] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2020-07-24 [15:19:01] [Server thread/INFO]: Enabling SAC v3.6.6
+2020-07-24 [15:19:01] [Server thread/INFO]: [ShadowAPI] > ShadowAPI Loaded
+2020-07-24 [15:19:01] [Server thread/INFO]: [SAC] > ShadowAntiCheat Activated
+2020-07-24 [15:19:01] [Server thread/INFO]: [SAC] > ShadowAntiCheat v3.6.6 [Phantom] @ ShadowAPI 1.2 [Ghost]
+2020-07-24 [15:19:01] [Server thread/INFO]: [SAC] > Loaded 9 Modules
+2020-07-24 [15:19:01] [Server thread/INFO]: [SAC] > For more information type /sac or /sacmodules or /sacauramodules
+2020-07-24 [15:19:01] [Server thread/INFO]: Preparing world "world"
+2020-07-24 [15:19:01] [Server thread/INFO]: Enabling AntiHack v1.0.0
+2020-07-24 [15:19:01] [Server thread/INFO]: Enabling PlotMenu v1.0.0
+2020-07-24 [15:19:01] [Server thread/INFO]: Enabling MultiWorld v1.6.0-beta1
+2020-07-24 [15:19:02] [Server thread/INFO]: Preparing world "Test"
+2020-07-24 [15:19:02] [Server thread/NOTICE]: Spawn terrain for world "Test" is being generated in the background
+2020-07-24 [15:19:02] [Server thread/INFO]: Enabling AutoClearLagg v3.1.0
+2020-07-24 [15:19:02] [Server thread/INFO]: Enabling AuthUI v1.0.0
+2020-07-24 [15:19:02] [Server thread/INFO]: [AuthUI] AuthUI successfully loaded.
+2020-07-24 [15:19:02] [Server thread/INFO]: Enabling PurePerms v1.4.2
+2020-07-24 [15:19:02] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2020-07-24 [15:19:02] [Server thread/INFO]: Enabling FloatingText v0.0.1
+2020-07-24 [15:19:02] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2020-07-24 [15:19:02] [Server thread/INFO]: Enabling PureChat v1.4.11
+2020-07-24 [15:19:02] [Server thread/NOTICE]: [PureChat] No valid factions plugin in default-factions-plugin node was found. Disabling factions plugin support.
+2020-07-24 [15:19:03] [Server thread/INFO]: Starting GS4 status listener
+2020-07-24 [15:19:03] [Server thread/INFO]: Setting query port to 19132
+2020-07-24 [15:19:03] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-07-24 [15:19:03] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-24 [15:19:03] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-24 [15:19:03] [Server thread/INFO]: Done (2.235s)! For help, type "help" or "?"
+2020-07-24 [15:20:31] [Server thread/INFO]: TexanHipster[/192.168.0.13:55509] logged in with entity id 5 at (world, -87.9749, 67, 570.3947)
+2020-07-24 [15:20:33] [Server thread/INFO]: TexanHipster joined the game
+2020-07-24 [15:20:56] [Server thread/INFO]: [TexanHipster: De-opped texdrak]
+2020-07-24 [15:22:05] [Server thread/INFO]: <ผู้เล่น> [TexanHipster] > ห
+2020-07-24 [15:23:04] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:23:06] [Server thread/INFO]: AI87949686[/127.0.0.1:47974] logged in with entity id 13 at (world, -370.8773, 65, 341.2842)
+2020-07-24 [15:23:12] [Server thread/INFO]: AI87949686 joined the game
+2020-07-24 [15:23:34] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:23:49] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:23:54] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:23:55] [Server thread/INFO]: [TexanHipster: Teleported TexanHipster to AI87949686]
+2020-07-24 [15:23:59] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:24:00] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:24:01] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:24:02] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:24:03] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:24:04] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-24 [15:28:06] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:28:36] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:28:51] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:28:56] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:29:01] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:29:02] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:29:03] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:29:04] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:29:05] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:29:06] [Server thread/INFO]: ขยะถูกลบ 7 ชิ้น
+2020-07-24 [15:29:36] [Server thread/INFO]: AI87949686 left the game
+2020-07-24 [15:29:36] [Server thread/INFO]: AI87949686[/127.0.0.1:47974] logged out due to timeout
+2020-07-24 [15:29:58] [Server thread/INFO]: AI87949686[/127.0.0.1:47974] logged in with entity id 30 at (world, -447.995, 70, 514.618)
+2020-07-24 [15:30:03] [Server thread/INFO]: AI87949686 joined the game
+2020-07-24 [15:30:13] [Server thread/INFO]: <แอดมิน> [TexanHipster] > 1
+2020-07-24 [15:33:07] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:33:37] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:33:52] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:33:57] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:33:58] [Server thread/INFO]: [TexanHipster: Teleported TexanHipster to AI87949686]
+2020-07-24 [15:34:02] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:34:03] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:34:04] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:34:05] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:34:06] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:34:07] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-24 [15:36:09] [Server thread/NOTICE]: Player data not found for "steve", creating new profile
+2020-07-24 [15:36:12] [Server thread/INFO]: Steve[/127.0.0.1:51693] logged in with entity id 79 at (world, 256, 68, 256)
+2020-07-24 [15:36:33] [Server thread/INFO]: Steve joined the game
+2020-07-24 [15:37:26] [Server thread/INFO]: [/127.0.0.1:50385] logged out due to Incompatible protocol version (408)
+2020-07-24 [15:37:45] [Server thread/INFO]: Steve has just earned the achievement Getting Wood
+2020-07-24 [15:38:09] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:38:39] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:38:54] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:38:59] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:39:04] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:39:05] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:39:06] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:39:07] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:39:08] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:39:09] [Server thread/INFO]: ขยะถูกลบ 3 ชิ้น
+2020-07-24 [15:43:10] [Server thread/INFO]: <ผู้เล่น> [Steve] > ไง
+2020-07-24 [15:43:12] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:43:24] [Server thread/INFO]: <ผู้เล่น> [AI87949686] > ดี
+2020-07-24 [15:43:42] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:43:57] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:44:02] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:44:07] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:44:08] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:44:09] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:44:10] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:44:11] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:44:12] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [15:48:13] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:48:31] [Server thread/INFO]: [/127.0.0.1:50385] logged out due to Incompatible protocol version (408)
+2020-07-24 [15:48:43] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:48:58] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:49:03] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:49:08] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:49:09] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:49:10] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:49:11] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:49:12] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:49:13] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [15:49:47] [Server thread/INFO]: Steve left the game
+2020-07-24 [15:49:47] [Server thread/INFO]: Steve[/127.0.0.1:51693] logged out due to client disconnect
+2020-07-24 [15:51:01] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged in with entity id 143 at (world, -473.4865, 73.2488, -75.5001)
+2020-07-24 [15:51:08] [Server thread/INFO]: Diamond joined the game
+2020-07-24 [15:51:53] [Server thread/INFO]: [TexanHipster: Teleported TexanHipster to Diamond]
+2020-07-24 [15:52:18] [Server thread/INFO]: [TexanHipster: Teleported TexanHipster to Diamond]
+2020-07-24 [15:52:40] [Server thread/INFO]: [TexanHipster: Teleported AI87949686 to TexanHipster]
+2020-07-24 [15:53:13] [Server thread/INFO]: <ผู้เล่น> [AI87949686] > หนีไป
+2020-07-24 [15:53:19] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:53:26] [Server thread/INFO]: Steve[/127.0.0.1:55081] logged in with entity id 154 at (world, -121.1564, 67, 194.6138)
+2020-07-24 [15:53:49] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:53:49] [Server thread/INFO]: Steve joined the game
+2020-07-24 [15:53:55] [Server thread/INFO]: Steve left the game
+2020-07-24 [15:53:55] [Server thread/INFO]: Steve[/127.0.0.1:55081] logged out due to Kicked by admin. Reason: คุณไม่ได้ใส่รหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-24 [15:54:04] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:54:09] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:54:12] [Server thread/INFO]: Preparing world "World_WB"
+2020-07-24 [15:54:14] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:54:14] [Server thread/INFO]: <ผู้เล่น> [AI87949686] > หนี
+2020-07-24 [15:54:15] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:54:16] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:54:17] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:54:18] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:54:19] [Server thread/INFO]: ขยะถูกลบ 10 ชิ้น
+2020-07-24 [15:58:19] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [15:58:49] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [15:59:04] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [15:59:09] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [15:59:14] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [15:59:15] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [15:59:16] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [15:59:17] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [15:59:18] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [15:59:19] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [16:03:07] [Server thread/INFO]: [Diamond: Teleported Diamond to TexanHipster]
+2020-07-24 [16:03:17] [Server thread/NOTICE]: Player data not found for "fivegibbon1793", creating new profile
+2020-07-24 [16:03:18] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged in with entity id 173 at (world, 256, 68, 256)
+2020-07-24 [16:03:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:03:41] [Server thread/INFO]: FiveGibbon1793 joined the game
+2020-07-24 [16:03:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:04:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:04:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:04:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:04:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:04:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:04:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:04:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:04:23] [Server thread/INFO]: ขยะถูกลบ 12 ชิ้น
+2020-07-24 [16:04:32] [Server thread/INFO]: FiveGibbon1793 has just earned the achievement Getting Wood
+2020-07-24 [16:05:10] [Server thread/INFO]: FiveGibbon1793 left the game
+2020-07-24 [16:05:10] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged out due to client disconnect
+2020-07-24 [16:05:32] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [16:08:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:08:45] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged in with entity id 201 at (world, 233.2045, 72, 365.3)
+2020-07-24 [16:08:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:09:05] [Server thread/INFO]: FiveGibbon1793 joined the game
+2020-07-24 [16:09:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:09:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:09:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:09:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:09:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:09:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:09:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:09:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [16:09:23] [Server thread/INFO]: FiveGibbon1793 has just earned the achievement Benchmarking
+2020-07-24 [16:10:45] [Server thread/INFO]: FiveGibbon1793 left the game
+2020-07-24 [16:10:45] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged out due to client disconnect
+2020-07-24 [16:11:29] [Server thread/NOTICE]: Player data not found for "cggy1", creating new profile
+2020-07-24 [16:11:30] [Server thread/INFO]: CGGy1[/127.0.0.1:59143] logged in with entity id 208 at (world, 256, 68, 256)
+2020-07-24 [16:12:02] [Server thread/INFO]: CGGy1 joined the game
+2020-07-24 [16:12:05] [Server thread/INFO]: CGGy1 left the game
+2020-07-24 [16:12:05] [Server thread/INFO]: CGGy1[/127.0.0.1:59143] logged out due to Kicked by admin. Reason: คุณไม่ได้ตั้งรหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-24 [16:13:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:13:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:14:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:14:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:14:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:14:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:14:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:14:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:14:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:14:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [16:18:21] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [16:18:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:18:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:19:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:19:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:19:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:19:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:19:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:19:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:19:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:19:23] [Server thread/INFO]: ขยะถูกลบ 9 ชิ้น
+2020-07-24 [16:19:42] [Server thread/INFO]: [/127.0.0.1:52156] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-24 [16:19:51] [Server thread/INFO]: <แอดมิน> [TexanHipster] > s
+2020-07-24 [16:20:04] [Server thread/INFO]: <ผู้เล่น> [AI87949686] > ตัวนึง อย่างนึง
+2020-07-24 [16:23:18] [Server thread/INFO]: Diamond left the game
+2020-07-24 [16:23:18] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged out due to timeout
+2020-07-24 [16:23:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:23:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:23:54] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged in with entity id 520 at (World_WB, 19.2579, 67.9483, 7.1607)
+2020-07-24 [16:24:00] [Server thread/INFO]: Diamond joined the game
+2020-07-24 [16:24:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:24:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:24:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:24:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:24:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:24:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:24:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:24:23] [Server thread/INFO]: ขยะถูกลบ 10 ชิ้น
+2020-07-24 [16:27:38] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [16:28:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:28:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:29:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:29:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:29:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:29:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:29:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:29:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:29:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:29:23] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-24 [16:33:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:33:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:34:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:34:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:34:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:34:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:34:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:34:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:34:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:34:23] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-24 [16:37:14] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [16:37:38] [Server thread/INFO]: [TexanHipster: Teleported AI87949686 to TexanHipster]
+2020-07-24 [16:38:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:38:26] [Server thread/INFO]: [TexanHipster: Set AI87949686's game mode to Creative Mode]
+2020-07-24 [16:38:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:39:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:39:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:39:14] [Server thread/NOTICE]: Player data not found for "cartooncat", creating new profile
+2020-07-24 [16:39:15] [Server thread/INFO]: cartooncat[/127.0.0.1:40978] logged in with entity id 880 at (world, 256, 68, 256)
+2020-07-24 [16:39:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:39:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:39:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:39:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:39:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:39:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [16:39:28] [Server thread/INFO]: cartooncat joined the game
+2020-07-24 [16:39:40] [Server thread/INFO]: cartooncat left the game
+2020-07-24 [16:39:40] [Server thread/INFO]: cartooncat[/127.0.0.1:40978] logged out due to Kicked by admin. Reason: คุณไม่ได้ตั้งรหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-24 [16:39:54] [Server thread/INFO]: cartooncat[/127.0.0.1:40978] logged in with entity id 881 at (world, 256, 68, 256)
+2020-07-24 [16:40:08] [Server thread/INFO]: cartooncat joined the game
+2020-07-24 [16:40:57] [Server thread/INFO]: cartooncat has just earned the achievement Getting Wood
+2020-07-24 [16:41:25] [Server thread/INFO]: cartooncat has just earned the achievement Benchmarking
+2020-07-24 [16:41:35] [Server thread/INFO]: cartooncat has just earned the achievement Time to Strike!
+2020-07-24 [16:41:36] [Server thread/INFO]: cartooncat has just earned the achievement Time to Mine!
+2020-07-24 [16:43:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:43:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:44:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:44:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:44:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:44:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:44:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:44:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:44:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:44:23] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-24 [16:44:39] [Server thread/INFO]: cartooncat left the game
+2020-07-24 [16:44:39] [Server thread/INFO]: cartooncat[/127.0.0.1:40978] logged out due to client disconnect
+2020-07-24 [16:47:21] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [16:48:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:48:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:49:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:49:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:49:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:49:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:49:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:49:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:49:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:49:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [16:53:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:53:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:54:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:54:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:54:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:54:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:54:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:54:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:54:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:54:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [16:56:42] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [16:58:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [16:58:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [16:59:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [16:59:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [16:59:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [16:59:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [16:59:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [16:59:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [16:59:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [16:59:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [17:00:17] [Server thread/NOTICE]: Player data not found for "scp 903th", creating new profile
+2020-07-24 [17:00:18] [Server thread/INFO]: SCP 903TH[/127.0.0.1:47571] logged in with entity id 951 at (world, 256, 68, 256)
+2020-07-24 [17:00:34] [Server thread/INFO]: [/127.0.0.1:37770] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-24 [17:00:42] [Server thread/INFO]: SCP 903TH joined the game
+2020-07-24 [17:00:46] [Server thread/INFO]: SCP 903TH left the game
+2020-07-24 [17:00:46] [Server thread/INFO]: SCP 903TH[/127.0.0.1:47571] logged out due to Kicked by admin. Reason: คุณไม่ได้ตั้งรหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-24 [17:01:06] [Server thread/INFO]: SCP 903TH[/127.0.0.1:47571] logged in with entity id 952 at (world, 256, 68, 256)
+2020-07-24 [17:01:18] [Server thread/NOTICE]: Player data not found for "gg go", creating new profile
+2020-07-24 [17:01:18] [Server thread/INFO]: GG go[/127.0.0.1:37770] logged in with entity id 953 at (world, 256, 68, 256)
+2020-07-24 [17:01:28] [Server thread/INFO]: SCP 903TH joined the game
+2020-07-24 [17:01:38] [Server thread/INFO]: GG go joined the game
+2020-07-24 [17:01:52] [Server thread/INFO]: [Diamond: Teleported GG go to Diamond]
+2020-07-24 [17:02:34] [Server thread/INFO]: [Diamond: Teleported GG go to SCP 903TH]
+2020-07-24 [17:03:19] [Server thread/INFO]: GG go has just earned the achievement Getting Wood
+2020-07-24 [17:03:22] [Server thread/INFO]: Diamond left the game
+2020-07-24 [17:03:22] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged out due to timeout
+2020-07-24 [17:03:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:03:26] [Server thread/INFO]: SCP 903TH has just earned the achievement Getting Wood
+2020-07-24 [17:03:46] [Server thread/INFO]: GG go has just earned the achievement Benchmarking
+2020-07-24 [17:03:52] [Server thread/INFO]: GG go has just earned the achievement Time to Mine!
+2020-07-24 [17:03:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:03:54] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged in with entity id 969 at (World_WB, 3.591, 65.9512, 22.8394)
+2020-07-24 [17:04:01] [Server thread/INFO]: Diamond joined the game
+2020-07-24 [17:04:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:04:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:04:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:04:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:04:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:04:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:04:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:04:23] [Server thread/INFO]: ขยะถูกลบ 15 ชิ้น
+2020-07-24 [17:05:25] [Server thread/INFO]: GG go has just earned the achievement Getting an Upgrade
+2020-07-24 [17:06:31] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [17:08:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:08:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:09:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:09:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:09:17] [Server thread/INFO]: [TexanHipster: De-opped TexanHipster]
+2020-07-24 [17:09:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:09:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:09:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:09:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:09:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:09:23] [Server thread/INFO]: ขยะถูกลบ 18 ชิ้น
+2020-07-24 [17:13:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:13:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:14:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:14:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:14:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:14:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:14:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:14:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:14:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:14:23] [Server thread/INFO]: ขยะถูกลบ 8 ชิ้น
+2020-07-24 [17:15:14] [Server thread/NOTICE]: Player data not found for "sunkung5046", creating new profile
+2020-07-24 [17:15:22] [Server thread/INFO]: sunkung5046[/127.0.0.1:45192] logged in with entity id 1417 at (world, 256, 68, 256)
+2020-07-24 [17:15:37] [Server thread/INFO]: sunkung5046[/127.0.0.1:45192] logged out due to timeout
+2020-07-24 [17:15:42] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [17:18:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:18:42] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ตายของตกนะครับ ระวังกันด้วย
+2020-07-24 [17:18:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:19:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:19:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:19:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:19:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:19:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:19:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:19:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:19:23] [Server thread/INFO]: ขยะถูกลบ 5 ชิ้น
+2020-07-24 [17:23:22] [Server thread/INFO]: Diamond left the game
+2020-07-24 [17:23:22] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged out due to timeout
+2020-07-24 [17:23:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:23:45] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged in with entity id 1587 at (World_WB, 27.661, 67.2482, -3.0965)
+2020-07-24 [17:23:51] [Server thread/INFO]: Diamond joined the game
+2020-07-24 [17:23:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:24:04] [Server thread/INFO]: <ผู้เล่น> [GG go] > แปบนะ
+2020-07-24 [17:24:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:24:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:24:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:24:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:24:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:24:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:24:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:24:23] [Server thread/INFO]: ขยะถูกลบ 26 ชิ้น
+2020-07-24 [17:24:48] [Server thread/INFO]: <ผู้เล่น> [SCP 903TH] > อาหาน
+2020-07-24 [17:25:02] [Server thread/INFO]: <ผู้เล่น> [AI87949686] > หาร รอเรื่อนะคะ
+2020-07-24 [17:25:05] [Server thread/INFO]: <ผู้เล่น> [GG go] > ไม่มี
+2020-07-24 [17:25:12] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ตีต้นไม้ไว้
+2020-07-24 [17:25:13] [Server thread/INFO]: [Diamond: Teleported Diamond to GG go]
+2020-07-24 [17:25:14] [Server thread/INFO]: <ผู้เล่น> [SCP 903TH] > ko
+2020-07-24 [17:25:23] [Server thread/INFO]: <แอดมิน> [TexanHipster] > รอแอปเปิลล่วง
+2020-07-24 [17:26:20] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ปลูกข้าวได้นะ
+2020-07-24 [17:27:51] [Server thread/INFO]: [Diamond: Teleported Diamond to AI87949686]
+2020-07-24 [17:28:00] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-24 [17:28:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:28:46] [Server thread/INFO]: [/127.0.0.1:36401] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-24 [17:28:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:29:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:29:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:29:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:29:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:29:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:29:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:29:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:29:23] [Server thread/INFO]: ขยะถูกลบ 16 ชิ้น
+2020-07-24 [17:30:29] [Server thread/INFO]: <แอดมิน> [TexanHipster] > .
+2020-07-24 [17:33:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:33:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:34:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:34:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:34:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:34:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:34:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:34:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:34:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:34:23] [Server thread/INFO]: ขยะถูกลบ 17 ชิ้น
+2020-07-24 [17:34:26] [Server thread/INFO]: [CONSOLE: Opped TexanHipster]
+2020-07-24 [17:36:03] [Server thread/INFO]: GG go has just earned the achievement Hot Topic
+2020-07-24 [17:36:14] [Server thread/NOTICE]: Player data not found for "misfortune1234", creating new profile
+2020-07-24 [17:36:14] [Server thread/INFO]: Misfortune1234[/127.0.0.1:39162] logged in with entity id 2262 at (world, 256, 68, 256)
+2020-07-24 [17:36:19] [Server thread/INFO]: Misfortune1234 joined the game
+2020-07-24 [17:37:32] [Server thread/INFO]: Misfortune1234 has just earned the achievement Getting Wood
+2020-07-24 [17:37:34] [Server thread/NOTICE]: Player data not found for " hook", creating new profile
+2020-07-24 [17:37:34] [Server thread/INFO]:  HOOK[/127.0.0.1:54319] logged in with entity id 2330 at (world, 256, 68, 256)
+2020-07-24 [17:37:55] [Server thread/INFO]:  HOOK joined the game
+2020-07-24 [17:38:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:38:31] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > อยู่ในครับ
+2020-07-24 [17:38:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:39:02] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > .tpไปหน่อย
+2020-07-24 [17:39:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:39:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:39:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:39:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:39:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:39:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:39:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:39:23] [Server thread/INFO]: ขยะถูกลบ 5 ชิ้น
+2020-07-24 [17:40:17] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > ขอของหน่อย
+2020-07-24 [17:40:49] [Server thread/INFO]: <ผู้เล่น> [Misfortune1234] > คนอื่นอยู่ไหนหมด
+2020-07-24 [17:41:33] [Server thread/INFO]: HOOK has just earned the achievement Getting Wood
+2020-07-24 [17:43:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:43:26] [Server thread/INFO]: <แอดมิน> [TexanHipster] > อย่าลิมปลูกข้าว ตัดต้นไม้หาแอปเปิลไว้กินนะครับ
+2020-07-24 [17:43:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:44:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:44:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:44:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:44:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:44:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:44:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:44:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:44:23] [Server thread/INFO]: ขยะถูกลบ 13 ชิ้น
+2020-07-24 [17:45:15] [Server thread/INFO]: AI87949686 left the game
+2020-07-24 [17:45:15] [Server thread/INFO]: AI87949686[/127.0.0.1:47974] logged out due to timeout
+2020-07-24 [17:46:11] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > ตายของตกไหมครับ
+2020-07-24 [17:46:26] [Server thread/INFO]: <แอดมิน> [TexanHipster] > อยากได้ตก หรือไม่ตกครับ
+2020-07-24 [17:46:34] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > ไม่ตก
+2020-07-24 [17:47:01] [Server thread/INFO]: <แอดมิน> [TexanHipster] > รับทราบครับ
+2020-07-24 [17:47:08] [Server thread/INFO]: [TexanHipster: Teleported TexanHipster to  HOOK]
+2020-07-24 [17:47:13] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > ลบขยะคือไร
+2020-07-24 [17:47:32] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > จะตายเเล้ว
+2020-07-24 [17:47:35] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ลบของที่ตกพื้นแล้วไม่มีใครเก็บ
+2020-07-24 [17:48:07] [Server thread/INFO]: GG go left the game
+2020-07-24 [17:48:07] [Server thread/INFO]: GG go[/127.0.0.1:37770] logged out due to client disconnect
+2020-07-24 [17:48:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:48:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:48:55] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > ขอเเค่อารานก็พอ
+2020-07-24 [17:49:08] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged in with entity id 2578 at (world, 301.8976, 65, 371.9053)
+2020-07-24 [17:49:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:49:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:49:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:49:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:49:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:49:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:49:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:49:23] [Server thread/INFO]: ขยะถูกลบ 11 ชิ้น
+2020-07-24 [17:49:33] [Server thread/INFO]: FiveGibbon1793 joined the game
+2020-07-24 [17:50:42] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > อยู่ด้วย
+2020-07-24 [17:50:46] [Server thread/INFO]:  HOOK left the game
+2020-07-24 [17:50:46] [Server thread/INFO]:  HOOK[/127.0.0.1:54319] logged out due to Kicked by admin. Reason: [SAC] > Speed is not allowed!
+2020-07-24 [17:50:46] [Server thread/INFO]:   HOOK ถูกเตะ เนื่องจากตรวจพบความผิดปกตื
+2020-07-24 [17:51:03] [Server thread/INFO]: [/127.0.0.1:36401] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-24 [17:52:11] [Server thread/INFO]: [TexanHipster: Teleported TexanHipster to Diamond]
+2020-07-24 [17:52:34] [Server thread/INFO]: FiveGibbon1793 has just earned the achievement Time to Strike!
+2020-07-24 [17:53:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:53:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:54:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:54:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:54:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:54:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:54:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:54:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:54:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:54:23] [Server thread/INFO]: ขยะถูกลบ 17 ชิ้น
+2020-07-24 [17:57:21] [Server thread/INFO]: FiveGibbon1793 left the game
+2020-07-24 [17:57:21] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged out due to client disconnect
+2020-07-24 [17:58:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [17:58:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [17:59:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [17:59:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [17:59:16] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged in with entity id 2815 at (world, 44.7799, 70, 27.0055)
+2020-07-24 [17:59:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [17:59:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [17:59:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [17:59:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [17:59:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [17:59:23] [Server thread/INFO]: ขยะถูกลบ 2 ชิ้น
+2020-07-24 [17:59:38] [Server thread/INFO]: FiveGibbon1793 joined the game
+2020-07-24 [18:00:28] [Server thread/INFO]: <ผู้เล่น> [FiveGibbon1793] > ไม่มีสัตวเลย
+2020-07-24 [18:00:47] [Server thread/INFO]: <แอดมิน> [TexanHipster] > เอาชีวิตรอดแบบไม่มีมอนเตอร์เกิดสักตัว 555
+2020-07-24 [18:01:00] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ชาเร้น ความท้าทาย
+2020-07-24 [18:01:05] [Server thread/INFO]: <ผู้เล่น> [FiveGibbon1793] >  อาหารล้ะ
+2020-07-24 [18:01:14] [Server thread/INFO]: <แอดมิน> [TexanHipster] > หาได้จากการปลูกข้าว
+2020-07-24 [18:01:19] [Server thread/INFO]: <แอดมิน> [TexanHipster] > หรือ ตัดไม้
+2020-07-24 [18:01:25] [Server thread/INFO]: <แอดมิน> [TexanHipster] > รอเอปเปิล
+2020-07-24 [18:01:51] [Server thread/INFO]:  HOOK[/127.0.0.1:54319] logged in with entity id 2893 at (world, 171.7534, 69.4115, 350.8127)
+2020-07-24 [18:02:11] [Server thread/INFO]:  HOOK joined the game
+2020-07-24 [18:02:13] [Server thread/INFO]:  HOOK left the game
+2020-07-24 [18:02:13] [Server thread/INFO]:  HOOK[/127.0.0.1:54319] logged out due to Kicked by admin. Reason: [SAC] > Fly is not allowed!
+2020-07-24 [18:02:13] [Server thread/INFO]:   HOOK ถูกเตะ เนื่องจากตรวจพบความผิดปกตื
+2020-07-24 [18:02:57] [Server thread/INFO]: Misfortune1234 left the game
+2020-07-24 [18:02:57] [Server thread/INFO]: Misfortune1234[/127.0.0.1:39162] logged out due to client disconnect
+2020-07-24 [18:03:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:03:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:04:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:04:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:04:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:04:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:04:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:04:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:04:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:04:23] [Server thread/INFO]: ขยะถูกลบ 5 ชิ้น
+2020-07-24 [18:08:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:08:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:09:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:09:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:09:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:09:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:09:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:09:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:09:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:09:23] [Server thread/INFO]: ขยะถูกลบ 2 ชิ้น
+2020-07-24 [18:10:17] [Server thread/INFO]: [Diamond: Teleported Diamond to FiveGibbon1793]
+2020-07-24 [18:10:21] [Server thread/INFO]: <แอดมิน> [TexanHipster] > เล่นไหวไหมครับ ใครไม่ไหว เอาอาหารจากแอดได้นะ ไว้เรื่มต้นได้นะ
+2020-07-24 [18:10:56] [Server thread/INFO]: FiveGibbon1793 left the game
+2020-07-24 [18:10:56] [Server thread/INFO]: FiveGibbon1793[/127.0.0.1:33240] logged out due to timeout
+2020-07-24 [18:11:20] [Server thread/INFO]: [Diamond: Teleported Diamond to SCP 903TH]
+2020-07-24 [18:12:17] [Server thread/INFO]: [TexanHipster: Set own game mode to Survival Mode]
+2020-07-24 [18:12:33] [Server thread/INFO]: [TexanHipster: Teleported TexanHipster to Diamond]
+2020-07-24 [18:12:34] [Server thread/INFO]: <แอดมิน> [Diamond] > kfc
+2020-07-24 [18:12:55] [Server thread/INFO]: [/127.0.0.1:49834] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-24 [18:13:12] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ศร ดิส ศร บัค
+2020-07-24 [18:13:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:13:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:14:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:14:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:14:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:14:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:14:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:14:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:14:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:14:23] [Server thread/INFO]: ขยะถูกลบ 5 ชิ้น
+2020-07-24 [18:18:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:18:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:18:59] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ตกปลายังบัคอยู่นะ
+2020-07-24 [18:19:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:19:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:19:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:19:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:19:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:19:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:19:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:19:23] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-24 [18:19:28] [Server thread/INFO]: [Diamond: Set the time to 23000]
+2020-07-24 [18:23:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:23:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:24:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:24:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:24:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:24:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:24:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:24:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:24:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:24:23] [Server thread/INFO]: ขยะถูกลบ 15 ชิ้น
+2020-07-24 [18:28:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:28:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:29:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:29:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:29:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:29:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:29:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:29:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:29:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:29:23] [Server thread/INFO]: ขยะถูกลบ 2 ชิ้น
+2020-07-24 [18:33:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:33:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:34:03] [Server thread/INFO]: <ผู้เล่น> [SCP 903TH] > พี่บายฯ
+2020-07-24 [18:34:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:34:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:34:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:34:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:34:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:34:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:34:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:34:23] [Server thread/INFO]: ขยะถูกลบ 2 ชิ้น
+2020-07-24 [18:34:26] [Server thread/INFO]: <แอดมิน> [Diamond] > ห่ะ
+2020-07-24 [18:34:40] [Server thread/INFO]: SCP 903TH left the game
+2020-07-24 [18:34:40] [Server thread/INFO]: SCP 903TH[/127.0.0.1:47571] logged out due to client disconnect
+2020-07-24 [18:35:49] [Server thread/INFO]: TexanHipster burned to death
+2020-07-24 [18:36:11] [Server thread/INFO]: [Diamond: Teleported Diamond to TexanHipster]
+2020-07-24 [18:36:38] [Server thread/INFO]: TexanHipster was slain by Diamond
+2020-07-24 [18:37:27] [Server thread/INFO]: Diamond left the game
+2020-07-24 [18:37:27] [Server thread/INFO]: Diamond[/127.0.0.1:36101] logged out due to client disconnect
+2020-07-24 [18:37:30] [Server thread/INFO]: TexanHipster left the game
+2020-07-24 [18:37:31] [Server thread/INFO]: TexanHipster[/192.168.0.13:55509] logged out due to client disconnect
+2020-07-24 [18:38:20] [Server thread/INFO]: TexanHipster[/192.168.0.13:55509] logged in with entity id 3545 at (world, 230.0522, 70, 269.4712)
+2020-07-24 [18:38:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:38:23] [Server thread/INFO]: TexanHipster joined the game
+2020-07-24 [18:38:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:39:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:39:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:39:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:39:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:39:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:39:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:39:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:39:23] [Server thread/INFO]: ขยะถูกลบ 3 ชิ้น
+2020-07-24 [18:43:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:43:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:44:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:44:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:44:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:44:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:44:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:44:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:44:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:44:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [18:45:25] [Server thread/INFO]: [/127.0.0.1:39162] logged out due to Login timeout
+2020-07-24 [18:48:23] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:48:53] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:49:08] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:49:13] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:49:18] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:49:19] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:49:20] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:49:21] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:49:22] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:49:23] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [18:49:27] [Server thread/INFO]: TexanHipster left the game
+2020-07-24 [18:49:28] [Server thread/INFO]: TexanHipster[/192.168.0.13:55509] logged out due to client disconnect
+2020-07-24 [18:57:40] [Server thread/INFO]: [Server] test
+2020-07-24 [18:58:03] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2020-07-24 [18:58:03] [Server thread/INFO]: /addgroup: Adds a new group to the groups list. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /addparent: Adds a group to another group inheritance list. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /authui: AuthUI info
+2020-07-24 [18:58:03] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2020-07-24 [18:58:03] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2020-07-24 [18:58:03] [Server thread/INFO]: /banlist: View all players banned from this server
+2020-07-24 [18:58:03] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2020-07-24 [18:58:03] [Server thread/INFO]: /defgroup: Allows you to set default group. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2020-07-24 [18:58:03] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2020-07-24 [18:58:03] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2020-07-24 [18:58:03] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2020-07-24 [18:58:03] [Server thread/INFO]: /enchant: Adds enchantments on items
+2020-07-24 [18:58:03] [Server thread/INFO]: /floatingtext: 
+2020-07-24 [18:58:03] [Server thread/INFO]: /fperms: Shows a list of all permissions for a specific plugin. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2020-07-24 [18:58:03] [Server thread/INFO]: /gamerule: Edit level gamerules
+2020-07-24 [18:58:03] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2020-07-24 [18:58:03] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2020-07-24 [18:58:03] [Server thread/INFO]: /groups: Shows a list of all groups. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /grpinfo: Shows info about a group. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /help: Shows the help menu
+2020-07-24 [18:58:03] [Server thread/INFO]: /kick: Removes the specified player from the server
+2020-07-24 [18:58:03] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2020-07-24 [18:58:03] [Server thread/INFO]: /link: Links an account
+2020-07-24 [18:58:03] [Server thread/INFO]: /list: Lists all online players
+2020-07-24 [18:58:03] [Server thread/INFO]: /listgperms: Shows a list of all permissions from a group. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /listuperms: Shows a list of all permissions from a user. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /login: Logs into an account
+2020-07-24 [18:58:03] [Server thread/INFO]: /maxenchants: Get info on MaxEnchants
+2020-07-24 [18:58:03] [Server thread/INFO]: /me: Performs the specified action in chat
+2020-07-24 [18:58:03] [Server thread/INFO]: /multiworld: MultiWorld commands
+2020-07-24 [18:58:03] [Server thread/INFO]: /op: Gives the specified player operator status
+2020-07-24 [18:58:03] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2020-07-24 [18:58:03] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2020-07-24 [18:58:03] [Server thread/INFO]: /particle: Adds particles to a world
+2020-07-24 [18:58:03] [Server thread/INFO]: /plot: Claim and manage your plots
+2020-07-24 [18:58:03] [Server thread/INFO]: /plotmenu: Öffne das Plot Menü
+2020-07-24 [18:58:03] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2020-07-24 [18:58:03] [Server thread/INFO]: /ppinfo: Shows current PurePerms information including author, version, and etc. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /ppreload: Reloads all PurePerms configurations. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /register: Registers an account
+2020-07-24 [18:58:03] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2020-07-24 [18:58:03] [Server thread/INFO]: /rmgroup: Removes a group from the groups list. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /rmparent: Removes a group from another group inheritance list. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /sac: Shows ShadowAntiCheat version
+2020-07-24 [18:58:03] [Server thread/INFO]: /sacauramodules: Shows loaded ShadowAntiCheat KillAura Check modules
+2020-07-24 [18:58:03] [Server thread/INFO]: /sacmodules: Shows loaded ShadowAntiCheat modules
+2020-07-24 [18:58:03] [Server thread/INFO]: /save-all: Saves the server to disk
+2020-07-24 [18:58:03] [Server thread/INFO]: /save-off: Disables server autosaving
+2020-07-24 [18:58:03] [Server thread/INFO]: /save-on: Enables server autosaving
+2020-07-24 [18:58:03] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2020-07-24 [18:58:03] [Server thread/INFO]: /seed: Shows the world seed
+2020-07-24 [18:58:03] [Server thread/INFO]: /setformat: Allows you to set default chat format of a PurePerms group
+2020-07-24 [18:58:03] [Server thread/INFO]: /setgperm: Adds a permission to the group. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /setgroup: Sets group for the user. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /setnametag: Allows you to set default nametag of a PurePerms group
+2020-07-24 [18:58:03] [Server thread/INFO]: /setprefix: Allows you to set your PureChat prefix
+2020-07-24 [18:58:03] [Server thread/INFO]: /setsuffix: Allows you to set your PureChat suffix
+2020-07-24 [18:58:03] [Server thread/INFO]: /setuperm: Adds a permission to the user. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2020-07-24 [18:58:03] [Server thread/INFO]: /shadowanticheat: Shows ShadowAntiCheat version
+2020-07-24 [18:58:03] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2020-07-24 [18:58:03] [Server thread/INFO]: /status: Reads back the server's performance.
+2020-07-24 [18:58:03] [Server thread/INFO]: /stop: Stops the server
+2020-07-24 [18:58:03] [Server thread/INFO]: /tell: Sends a private message to the given player
+2020-07-24 [18:58:03] [Server thread/INFO]: /time: Changes the time on each world
+2020-07-24 [18:58:03] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2020-07-24 [18:58:03] [Server thread/INFO]: /title: Controls screen titles
+2020-07-24 [18:58:03] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2020-07-24 [18:58:03] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2020-07-24 [18:58:03] [Server thread/INFO]: /unlink: Unlinks linked accounts
+2020-07-24 [18:58:03] [Server thread/INFO]: /unsetgperm: Removes a permission from the group. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /unsetuperm: Removes a permission from the user. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /usrinfo: Shows info about a user. #64FF00
+2020-07-24 [18:58:03] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2020-07-24 [18:58:15] [Server thread/INFO]: [PurePerms:64FF00] Usage: /usrinfo <player> [world]
+2020-07-24 [18:58:24] [Server thread/INFO]: ---- Server status ----
+2020-07-24 [18:58:24] [Server thread/INFO]: Uptime: 3 hours 39 minutes 23 seconds
+2020-07-24 [18:58:24] [Server thread/INFO]: Current TPS: 20 (0.93%)
+2020-07-24 [18:58:24] [Server thread/INFO]: Average TPS: 20 (1.96%)
+2020-07-24 [18:58:24] [Server thread/INFO]: Network upload: 0 kB/s
+2020-07-24 [18:58:24] [Server thread/INFO]: Network download: 0 kB/s
+2020-07-24 [18:58:24] [Server thread/INFO]: Thread count: 5
+2020-07-24 [18:58:24] [Server thread/INFO]: Main thread memory: 61.97 MB.
+2020-07-24 [18:58:24] [Server thread/INFO]: Total memory: 426.05 MB.
+2020-07-24 [18:58:24] [Server thread/INFO]: Total virtual memory: 489.91 MB.
+2020-07-24 [18:58:24] [Server thread/INFO]: Heap memory: 12.95 MB.
+2020-07-24 [18:58:24] [Server thread/INFO]: Maximum memory (system): 489.91 MB.
+2020-07-24 [18:58:24] [Server thread/INFO]: World "world": 9 chunks, 0 entities. Time 0.1ms
+2020-07-24 [18:58:24] [Server thread/INFO]: World "Test": 9 chunks, 0 entities. Time 0.03ms
+2020-07-24 [18:58:24] [Server thread/INFO]: World "World_WB": 9 chunks, 1 entities. Time 0.03ms
+2020-07-24 [18:58:35] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [18:59:05] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [18:59:20] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [18:59:25] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [18:59:30] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [18:59:31] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [18:59:32] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [18:59:33] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [18:59:34] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [18:59:35] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [18:59:53] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2020-07-24 [18:59:53] [Server thread/INFO]: /addgroup: Adds a new group to the groups list. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /addparent: Adds a group to another group inheritance list. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /authui: AuthUI info
+2020-07-24 [18:59:53] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2020-07-24 [18:59:53] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2020-07-24 [18:59:53] [Server thread/INFO]: /banlist: View all players banned from this server
+2020-07-24 [18:59:53] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2020-07-24 [18:59:53] [Server thread/INFO]: /defgroup: Allows you to set default group. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2020-07-24 [18:59:53] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2020-07-24 [18:59:53] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2020-07-24 [18:59:53] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2020-07-24 [18:59:53] [Server thread/INFO]: /enchant: Adds enchantments on items
+2020-07-24 [18:59:53] [Server thread/INFO]: /floatingtext: 
+2020-07-24 [18:59:53] [Server thread/INFO]: /fperms: Shows a list of all permissions for a specific plugin. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2020-07-24 [18:59:53] [Server thread/INFO]: /gamerule: Edit level gamerules
+2020-07-24 [18:59:53] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2020-07-24 [18:59:53] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2020-07-24 [18:59:53] [Server thread/INFO]: /groups: Shows a list of all groups. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /grpinfo: Shows info about a group. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /help: Shows the help menu
+2020-07-24 [18:59:53] [Server thread/INFO]: /kick: Removes the specified player from the server
+2020-07-24 [18:59:53] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2020-07-24 [18:59:53] [Server thread/INFO]: /link: Links an account
+2020-07-24 [18:59:53] [Server thread/INFO]: /list: Lists all online players
+2020-07-24 [18:59:53] [Server thread/INFO]: /listgperms: Shows a list of all permissions from a group. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /listuperms: Shows a list of all permissions from a user. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /login: Logs into an account
+2020-07-24 [18:59:53] [Server thread/INFO]: /maxenchants: Get info on MaxEnchants
+2020-07-24 [18:59:53] [Server thread/INFO]: /me: Performs the specified action in chat
+2020-07-24 [18:59:53] [Server thread/INFO]: /multiworld: MultiWorld commands
+2020-07-24 [18:59:53] [Server thread/INFO]: /op: Gives the specified player operator status
+2020-07-24 [18:59:53] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2020-07-24 [18:59:53] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2020-07-24 [18:59:53] [Server thread/INFO]: /particle: Adds particles to a world
+2020-07-24 [18:59:53] [Server thread/INFO]: /plot: Claim and manage your plots
+2020-07-24 [18:59:53] [Server thread/INFO]: /plotmenu: Öffne das Plot Menü
+2020-07-24 [18:59:53] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2020-07-24 [18:59:53] [Server thread/INFO]: /ppinfo: Shows current PurePerms information including author, version, and etc. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /ppreload: Reloads all PurePerms configurations. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /register: Registers an account
+2020-07-24 [18:59:53] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2020-07-24 [18:59:53] [Server thread/INFO]: /rmgroup: Removes a group from the groups list. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /rmparent: Removes a group from another group inheritance list. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /sac: Shows ShadowAntiCheat version
+2020-07-24 [18:59:53] [Server thread/INFO]: /sacauramodules: Shows loaded ShadowAntiCheat KillAura Check modules
+2020-07-24 [18:59:53] [Server thread/INFO]: /sacmodules: Shows loaded ShadowAntiCheat modules
+2020-07-24 [18:59:53] [Server thread/INFO]: /save-all: Saves the server to disk
+2020-07-24 [18:59:53] [Server thread/INFO]: /save-off: Disables server autosaving
+2020-07-24 [18:59:53] [Server thread/INFO]: /save-on: Enables server autosaving
+2020-07-24 [18:59:53] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2020-07-24 [18:59:53] [Server thread/INFO]: /seed: Shows the world seed
+2020-07-24 [18:59:53] [Server thread/INFO]: /setformat: Allows you to set default chat format of a PurePerms group
+2020-07-24 [18:59:53] [Server thread/INFO]: /setgperm: Adds a permission to the group. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /setgroup: Sets group for the user. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /setnametag: Allows you to set default nametag of a PurePerms group
+2020-07-24 [18:59:53] [Server thread/INFO]: /setprefix: Allows you to set your PureChat prefix
+2020-07-24 [18:59:53] [Server thread/INFO]: /setsuffix: Allows you to set your PureChat suffix
+2020-07-24 [18:59:53] [Server thread/INFO]: /setuperm: Adds a permission to the user. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2020-07-24 [18:59:53] [Server thread/INFO]: /shadowanticheat: Shows ShadowAntiCheat version
+2020-07-24 [18:59:53] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2020-07-24 [18:59:53] [Server thread/INFO]: /status: Reads back the server's performance.
+2020-07-24 [18:59:53] [Server thread/INFO]: /stop: Stops the server
+2020-07-24 [18:59:53] [Server thread/INFO]: /tell: Sends a private message to the given player
+2020-07-24 [18:59:53] [Server thread/INFO]: /time: Changes the time on each world
+2020-07-24 [18:59:53] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2020-07-24 [18:59:53] [Server thread/INFO]: /title: Controls screen titles
+2020-07-24 [18:59:53] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2020-07-24 [18:59:53] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2020-07-24 [18:59:53] [Server thread/INFO]: /unlink: Unlinks linked accounts
+2020-07-24 [18:59:53] [Server thread/INFO]: /unsetgperm: Removes a permission from the group. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /unsetuperm: Removes a permission from the user. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /usrinfo: Shows info about a user. #64FF00
+2020-07-24 [18:59:53] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2020-07-24 [19:00:02] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2020-07-24 [19:00:06] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2020-07-24 [19:00:14] [Server thread/INFO]: ---- Server status ----
+2020-07-24 [19:00:14] [Server thread/INFO]: Uptime: 3 hours 41 minutes 13 seconds
+2020-07-24 [19:00:14] [Server thread/INFO]: Current TPS: 20 (7.7%)
+2020-07-24 [19:00:14] [Server thread/INFO]: Average TPS: 20 (1.83%)
+2020-07-24 [19:00:14] [Server thread/INFO]: Network upload: 0 kB/s
+2020-07-24 [19:00:14] [Server thread/INFO]: Network download: 0 kB/s
+2020-07-24 [19:00:14] [Server thread/INFO]: Thread count: 5
+2020-07-24 [19:00:14] [Server thread/INFO]: Main thread memory: 61.83 MB.
+2020-07-24 [19:00:14] [Server thread/INFO]: Total memory: 425.67 MB.
+2020-07-24 [19:00:14] [Server thread/INFO]: Total virtual memory: 489.91 MB.
+2020-07-24 [19:00:14] [Server thread/INFO]: Heap memory: 12.95 MB.
+2020-07-24 [19:00:14] [Server thread/INFO]: Maximum memory (system): 489.91 MB.
+2020-07-24 [19:00:14] [Server thread/INFO]: World "world": 9 chunks, 0 entities. Time 0.28ms
+2020-07-24 [19:00:14] [Server thread/INFO]: World "Test": 9 chunks, 0 entities. Time 0.06ms
+2020-07-24 [19:00:14] [Server thread/INFO]: World "World_WB": 9 chunks, 1 entities. Time 0.06ms
+2020-07-24 [19:03:35] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [19:04:05] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [19:04:20] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [19:04:25] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [19:04:30] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [19:04:31] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [19:04:32] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [19:04:33] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [19:04:34] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [19:04:35] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [19:08:35] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [19:09:05] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [19:09:20] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [19:09:25] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [19:09:30] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [19:09:31] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [19:09:32] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [19:09:33] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [19:09:34] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [19:09:35] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [19:13:35] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [19:14:05] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [19:14:20] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [19:14:25] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [19:14:30] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [19:14:31] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [19:14:32] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [19:14:33] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [19:14:34] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [19:14:35] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-24 [19:18:35] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-24 [19:19:05] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-24 [19:19:20] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-24 [19:19:25] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-24 [19:19:30] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-24 [19:19:31] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-24 [19:19:32] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-24 [19:19:33] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-24 [19:19:34] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-24 [19:19:35] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [04:36:28] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-25 [04:36:28] [Server thread/INFO]: Loading server properties...
+2020-07-25 [04:36:28] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-25 [04:36:28] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-25 [04:36:28] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2020-07-25 [04:36:28] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2020-07-25 [04:36:28] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2020-07-25 [04:36:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-25 [04:36:28] [Server thread/INFO]: This server is running เอาชีวิตรอดโดยไม่มีมอนเตอร์เกิด version 3.14.2
+2020-07-25 [04:36:28] [Server thread/INFO]: เอาชีวิตรอดโดยไม่มีมอนเตอร์เกิด is distributed under the LGPL License
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading resource packs...
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading AutoClearLagg v3.1.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading PurePerms v1.4.2
+2020-07-25 [04:36:29] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2020-07-25 [04:36:29] [Server thread/INFO]: [PurePerms] Multiworld support is currently disabled.
+2020-07-25 [04:36:29] [Server thread/INFO]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading FloatingText v0.0.1
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading PureChat v1.4.11
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading PlotMenu v1.0.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading SimpleAuth v2.1.3
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading MyPlot v1.7.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading AuthUI v1.0.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading SAC v3.6.6
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading AntiHack v1.0.0
+2020-07-25 [04:36:29] [Server thread/CRITICAL]: Could not load plugin 'BossPlugin': Unknown dependency: Slapper
+2020-07-25 [04:36:29] [Server thread/INFO]: Loading MultiWorld v1.6.0-beta1
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling SimpleAuth v2.1.3
+2020-07-25 [04:36:29] [Server thread/INFO]: [SimpleAuth] Everything loaded!
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling MyPlot v1.7.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling SAC v3.6.6
+2020-07-25 [04:36:29] [Server thread/INFO]: [ShadowAPI] > ShadowAPI Loaded
+2020-07-25 [04:36:29] [Server thread/INFO]: [SAC] > ShadowAntiCheat Activated
+2020-07-25 [04:36:29] [Server thread/INFO]: [SAC] > ShadowAntiCheat v3.6.6 [Phantom] @ ShadowAPI 1.2 [Ghost]
+2020-07-25 [04:36:29] [Server thread/INFO]: [SAC] > Loaded 9 Modules
+2020-07-25 [04:36:29] [Server thread/INFO]: [SAC] > For more information type /sac or /sacmodules or /sacauramodules
+2020-07-25 [04:36:29] [Server thread/INFO]: Preparing world "world"
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling AutoClearLagg v3.1.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling PurePerms v1.4.2
+2020-07-25 [04:36:29] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling FloatingText v0.0.1
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling PureChat v1.4.11
+2020-07-25 [04:36:29] [Server thread/NOTICE]: [PureChat] No valid factions plugin in default-factions-plugin node was found. Disabling factions plugin support.
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling PlotMenu v1.0.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling AuthUI v1.0.0
+2020-07-25 [04:36:29] [Server thread/INFO]: [AuthUI] AuthUI successfully loaded.
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling AntiHack v1.0.0
+2020-07-25 [04:36:29] [Server thread/INFO]: Enabling MultiWorld v1.6.0-beta1
+2020-07-25 [04:36:30] [Server thread/INFO]: Preparing world "Test"
+2020-07-25 [04:36:30] [Server thread/NOTICE]: Spawn terrain for world "Test" is being generated in the background
+2020-07-25 [04:36:30] [Server thread/INFO]: Starting GS4 status listener
+2020-07-25 [04:36:30] [Server thread/INFO]: Setting query port to 19132
+2020-07-25 [04:36:30] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-07-25 [04:36:30] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-25 [04:36:30] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-25 [04:36:30] [Server thread/INFO]: Done (2.454s)! For help, type "help" or "?"
+2020-07-25 [04:40:29] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [04:40:54] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged in with entity id 1 at (world, 142.0281, 92.0435, 319.485)
+2020-07-25 [04:41:00] [Server thread/INFO]: Diamond joined the game
+2020-07-25 [04:41:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [04:41:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [04:41:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [04:41:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [04:41:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [04:41:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [04:41:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [04:41:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [04:41:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [04:41:46] [Server thread/INFO]: Diamond left the game
+2020-07-25 [04:41:46] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged out due to timeout
+2020-07-25 [04:42:08] [Server thread/INFO]:  HOOK[/127.0.0.1:35989] logged in with entity id 2 at (world, 171.7534, 69.4125, 350.8127)
+2020-07-25 [04:42:28] [Server thread/INFO]:  HOOK joined the game
+2020-07-25 [04:42:33] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged in with entity id 3 at (world, 155.5182, 76, 344.5081)
+2020-07-25 [04:42:40] [Server thread/INFO]: Diamond joined the game
+2020-07-25 [04:42:54] [Server thread/INFO]: <ผู้เล่น> [ HOOK] > เเอดอยากได้ของครับ
+2020-07-25 [04:43:04] [Server thread/INFO]: [Diamond: Teleported Diamond to  HOOK]
+2020-07-25 [04:45:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [04:45:37] [Server thread/INFO]:  HOOK left the game
+2020-07-25 [04:45:37] [Server thread/INFO]:  HOOK[/127.0.0.1:35989] logged out due to timeout
+2020-07-25 [04:46:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [04:46:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [04:46:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [04:46:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [04:46:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [04:46:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [04:46:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [04:46:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [04:46:32] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-25 [04:48:00] [Server thread/INFO]: TexanHipster[/192.168.0.13:54486] logged in with entity id 60 at (world, 230.3472, 70, 259.3176)
+2020-07-25 [04:48:05] [Server thread/INFO]: TexanHipster joined the game
+2020-07-25 [04:48:51] [Server thread/INFO]: TexanHipster left the game
+2020-07-25 [04:48:51] [Server thread/INFO]: TexanHipster[/192.168.0.13:54486] logged out due to client disconnect
+2020-07-25 [04:50:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [04:51:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [04:51:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [04:51:19] [Server thread/INFO]: Steve[/127.0.0.1:35921] logged in with entity id 65 at (world, -121.1564, 67, 194.6138)
+2020-07-25 [04:51:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [04:51:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [04:51:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [04:51:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [04:51:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [04:51:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [04:51:32] [Server thread/INFO]: ขยะถูกลบ 4 ชิ้น
+2020-07-25 [04:51:55] [Server thread/INFO]: Steve joined the game
+2020-07-25 [04:51:58] [Server thread/INFO]: Steve left the game
+2020-07-25 [04:51:58] [Server thread/INFO]: Steve[/127.0.0.1:35921] logged out due to Kicked by admin. Reason: คุณไม่ได้ใส่รหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-25 [04:52:23] [Server thread/INFO]: Steve[/127.0.0.1:35921] logged in with entity id 66 at (world, -121.1564, 67, 194.6138)
+2020-07-25 [04:52:26] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-25 [04:53:10] [Server thread/INFO]: Steve joined the game
+2020-07-25 [04:53:16] [Server thread/INFO]: Steve left the game
+2020-07-25 [04:53:16] [Server thread/INFO]: Steve[/127.0.0.1:35921] logged out due to Kicked by admin. Reason: คุณไม่ได้ใส่รหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-25 [04:55:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [04:56:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [04:56:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [04:56:21] [Server thread/INFO]: Steve[/127.0.0.1:35921] logged in with entity id 69 at (world, -121.1564, 67, 194.6138)
+2020-07-25 [04:56:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [04:56:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [04:56:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [04:56:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [04:56:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [04:56:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [04:56:32] [Server thread/INFO]: ขยะถูกลบ 1 ชิ้น
+2020-07-25 [04:56:59] [Server thread/INFO]: Steve joined the game
+2020-07-25 [04:57:32] [Server thread/INFO]: Steve left the game
+2020-07-25 [04:57:32] [Server thread/INFO]: Steve[/127.0.0.1:35921] logged out due to Kicked by admin. Reason: คุณไม่ได้ใส่รหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-25 [05:00:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:01:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:01:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:01:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:01:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:01:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:01:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:01:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:01:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:01:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:02:13] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-25 [05:05:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:06:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:06:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:06:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:06:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:06:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:06:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:06:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:06:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:06:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:10:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:11:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:11:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:11:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:11:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:11:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:11:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:11:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:11:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:11:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:11:46] [Server thread/INFO]: Diamond left the game
+2020-07-25 [05:11:46] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged out due to client disconnect
+2020-07-25 [05:12:08] [Server thread/NOTICE]: Player data not found for "moth studio3", creating new profile
+2020-07-25 [05:12:09] [Server thread/INFO]: Moth Studio3[/127.0.0.1:57031] logged in with entity id 77 at (world, 256, 68, 256)
+2020-07-25 [05:12:25] [Server thread/INFO]: Moth Studio3 joined the game
+2020-07-25 [05:12:50] [Server thread/INFO]: Moth Studio3 left the game
+2020-07-25 [05:12:50] [Server thread/INFO]: Moth Studio3[/127.0.0.1:57031] logged out due to client disconnect
+2020-07-25 [05:15:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:16:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:16:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:16:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:16:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:16:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:16:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:16:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:16:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:16:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:20:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:21:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:21:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:21:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:21:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:21:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:21:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:21:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:21:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:21:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:22:31] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged out due to timeout
+2020-07-25 [05:25:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:26:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:26:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:26:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:26:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:26:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:26:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:26:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:26:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:26:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:30:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:31:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:31:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:31:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:31:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:31:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:31:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:31:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:31:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:31:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:34:12] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged out due to timeout
+2020-07-25 [05:35:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:36:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:36:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:36:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:36:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:36:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:36:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:36:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:36:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:36:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:40:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:41:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:41:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:41:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:41:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:41:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:41:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:41:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:41:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:41:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:45:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:46:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:46:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:46:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:46:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:46:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:46:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:46:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:46:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:46:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:50:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:51:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:51:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:51:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:51:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:51:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:51:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:51:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:51:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:51:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [05:55:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [05:56:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [05:56:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [05:56:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [05:56:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [05:56:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [05:56:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [05:56:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [05:56:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [05:56:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:00:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:01:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:01:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:01:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:01:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:01:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:01:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:01:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:01:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:01:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:05:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:06:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:06:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:06:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:06:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:06:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:06:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:06:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:06:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:06:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:07:54] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged in with entity id 78 at (world, -336.6526, 67, 332.0144)
+2020-07-25 [06:08:00] [Server thread/INFO]: Diamond joined the game
+2020-07-25 [06:08:14] [Server thread/INFO]: TexanHipster[/192.168.0.13:54823] logged in with entity id 80 at (world, 198.5385, 66, 294.7138)
+2020-07-25 [06:08:18] [Server thread/INFO]: TexanHipster joined the game
+2020-07-25 [06:08:26] [Server thread/INFO]: [Diamond: Teleported Diamond to TexanHipster]
+2020-07-25 [06:10:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:11:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:11:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:11:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:11:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:11:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:11:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:11:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:11:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:11:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:11:36] [Server thread/INFO]: Diamond left the game
+2020-07-25 [06:11:36] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged out due to timeout
+2020-07-25 [06:11:45] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged in with entity id 84 at (world, 158.3, 72, 346.344)
+2020-07-25 [06:11:51] [Server thread/INFO]: Diamond joined the game
+2020-07-25 [06:12:07] [Server thread/INFO]: TexanHipster was slain by Diamond
+2020-07-25 [06:12:15] [Server thread/INFO]: [Diamond: Teleported Diamond to TexanHipster]
+2020-07-25 [06:12:26] [Server thread/INFO]: [Diamond: Teleported Diamond to TexanHipster]
+2020-07-25 [06:12:45] [Server thread/INFO]: [Diamond: Teleported Diamond to TexanHipster]
+2020-07-25 [06:13:03] [Server thread/INFO]: [Diamond: Set the time to 1000]
+2020-07-25 [06:13:56] [Server thread/INFO]: [Diamond: Teleported Diamond to TexanHipster]
+2020-07-25 [06:14:12] [Server thread/INFO]: Diamond left the game
+2020-07-25 [06:14:12] [Server thread/INFO]: Diamond[/127.0.0.1:35929] logged out due to client disconnect
+2020-07-25 [06:15:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:16:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:16:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:16:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:16:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:16:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:16:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:16:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:16:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:16:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:18:56] [Server thread/INFO]: TexanHipster left the game
+2020-07-25 [06:18:57] [Server thread/INFO]: TexanHipster[/192.168.0.13:54823] logged out due to timeout
+2020-07-25 [06:20:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:21:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:21:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:21:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:21:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:21:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:21:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:21:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:21:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:21:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:25:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:26:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:26:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:26:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:26:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:26:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:26:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:26:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:26:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:26:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:30:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:31:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:31:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:31:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:31:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:31:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:31:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:31:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:31:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:31:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:35:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:36:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:36:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:36:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:36:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:36:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:36:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:36:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:36:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:36:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:40:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:41:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:41:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:41:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:41:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:41:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:41:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:41:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:41:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:41:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:45:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:46:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:46:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:46:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:46:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:46:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:46:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:46:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:46:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:46:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:50:32] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:51:02] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:51:17] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:51:22] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:51:27] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:51:28] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:51:29] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:51:30] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:51:31] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:51:32] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [06:55:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [06:56:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [06:56:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [06:56:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [06:56:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [06:56:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [06:56:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [06:56:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [06:56:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [06:56:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:00:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:01:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:01:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:01:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:01:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:01:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:01:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:01:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:01:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:01:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:05:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:06:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:06:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:06:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:06:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:06:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:06:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:06:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:06:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:06:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:10:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:11:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:11:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:11:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:11:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:11:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:11:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:11:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:11:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:11:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:15:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:16:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:16:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:16:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:16:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:16:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:16:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:16:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:16:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:16:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:20:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:21:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:21:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:21:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:21:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:21:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:21:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:21:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:21:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:21:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:25:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:26:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:26:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:26:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:26:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:26:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:26:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:26:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:26:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:26:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:30:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:31:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:31:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:31:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:31:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:31:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:31:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:31:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:31:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:31:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:35:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:36:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:36:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:36:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:36:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:36:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:36:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:36:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:36:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:36:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:40:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:41:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:41:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:41:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:41:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:41:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:41:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:41:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:41:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:41:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:45:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:46:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:46:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:46:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:46:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:46:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:46:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:46:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:46:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:46:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:50:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:51:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:51:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:51:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:51:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:51:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:51:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:51:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:51:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:51:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [07:53:56] [Server thread/INFO]: [/127.0.0.1:42632] logged out due to [Anti-Name]>ชื่อมีตัวอักษรที่ไม่เหมาะ ต้องตั้งภาษาอังกฤษ และต้องไม่เกิน 32 ตัวอักษร
+2020-07-25 [07:55:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [07:56:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [07:56:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [07:56:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [07:56:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [07:56:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [07:56:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [07:56:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [07:56:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [07:56:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [08:00:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [08:01:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [08:01:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [08:01:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [08:01:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [08:01:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [08:01:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [08:01:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [08:01:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [08:01:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [08:03:54] [Server thread/INFO]: TexanHipster[/192.168.0.13:58838] logged in with entity id 87 at (world, 239.5407, 71, 247.7861)
+2020-07-25 [08:03:57] [Server thread/INFO]: TexanHipster joined the game
+2020-07-25 [08:05:33] [Server thread/NOTICE]: Player data not found for "lang", creating new profile
+2020-07-25 [08:05:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [08:05:34] [Server thread/INFO]: LANG[/127.0.0.1:56098] logged in with entity id 91 at (world, 256, 68, 256)
+2020-07-25 [08:05:54] [Server thread/INFO]: LANG joined the game
+2020-07-25 [08:05:58] [Server thread/INFO]: LANG left the game
+2020-07-25 [08:05:58] [Server thread/INFO]: LANG[/127.0.0.1:56098] logged out due to Kicked by admin. Reason: คุณไม่ได้ตั้งรหัสผ่าน (จึงหลุดออกจากเซืฟเวอร์)
+2020-07-25 [08:06:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [08:06:07] [Server thread/INFO]: TexanHipster left the game
+2020-07-25 [08:06:08] [Server thread/INFO]: TexanHipster[/192.168.0.13:58838] logged out due to client disconnect
+2020-07-25 [08:06:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [08:06:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [08:06:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [08:06:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [08:06:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [08:06:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [08:06:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [08:06:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [08:07:35] [Server thread/INFO]: TexanHipster[/192.168.0.13:58838] logged in with entity id 93 at (world, 246.3266, 70, 266.8476)
+2020-07-25 [08:07:37] [Server thread/INFO]: TexanHipster joined the game
+2020-07-25 [08:07:56] [Server thread/INFO]: <แอดมิน> [TexanHipster] > เอาชีวิตรอด มีกันโปร
+2020-07-25 [08:08:09] [Server thread/INFO]: <แอดมิน> [TexanHipster] > สวัสดีครับ
+2020-07-25 [08:08:13] [Server thread/INFO]: <แอดมิน> [TexanHipster] > okครับ
+2020-07-25 [08:09:24] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ไง
+2020-07-25 [08:09:29] [Server thread/INFO]: <แอดมิน> [TexanHipster] > สวัสดีครับ
+2020-07-25 [08:09:31] [Server thread/INFO]: <แอดมิน> [TexanHipster] > ยังไงนะครับ
+2020-07-25 [08:09:33] [Server thread/INFO]: <แอดมิน> [TexanHipster] > okครับ
+2020-07-25 [08:10:27] [Server thread/INFO]: <แอดมิน> [TexanHipster] > เอาชีวิตรอด มีกันโปรเสกของ
+2020-07-25 [08:10:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [08:11:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [08:11:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [08:11:23] [Server thread/INFO]: <แอดมิน> [TexanHipster] > เอาชีวิตรอด มีกันโปร80%
+2020-07-25 [08:11:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [08:11:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [08:11:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [08:11:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [08:11:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [08:11:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [08:11:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น
+2020-07-25 [08:11:41] [Server thread/INFO]: <แอดมิน> [TexanHipster] > เอาชีวิตรอด มีกันโปร90%
+2020-07-25 [08:13:02] [Server thread/INFO]: <แอดมิน> [TexanHipster] > <ผู้เล่น>
+2020-07-25 [08:13:23] [Server thread/INFO]: <แอดมิน> [TexanHipster] > <ผู้เล่น>
+2020-07-25 [08:14:31] [Server thread/INFO]: TexanHipster left the game
+2020-07-25 [08:14:31] [Server thread/INFO]: TexanHipster[/192.168.0.13:58838] logged out due to client disconnect
+2020-07-25 [08:15:33] [Server thread/INFO]: ลบขยะในอีก 60 วินาที
+2020-07-25 [08:16:03] [Server thread/INFO]: ลบขยะในอีก 30 วินาที
+2020-07-25 [08:16:18] [Server thread/INFO]: ลบขยะในอีก 15 วินาที
+2020-07-25 [08:16:23] [Server thread/INFO]: ลบขยะในอีก 10 วินาที
+2020-07-25 [08:16:28] [Server thread/INFO]: ลบขยะในอีก 5 วินาที
+2020-07-25 [08:16:29] [Server thread/INFO]: ลบขยะในอีก 4 วินาที
+2020-07-25 [08:16:30] [Server thread/INFO]: ลบขยะในอีก 3 วินาที
+2020-07-25 [08:16:31] [Server thread/INFO]: ลบขยะในอีก 2 วินาที
+2020-07-25 [08:16:32] [Server thread/INFO]: ลบขยะในอีก 1 วินาที
+2020-07-25 [08:16:33] [Server thread/INFO]: ขยะถูกลบ 0 ชิ้น

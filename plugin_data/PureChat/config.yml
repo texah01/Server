@@ -4,8 +4,8 @@ default-factions-plugin: FactionsPro
 enable-multiworld-chat: false
 groups:
   Guest:
-    chat: '§l§f<ผู้เล่น> §l§f[{display_name}] §l§6> §l§e{msg}'
-    nametag: '§l§f<ผู้เล่น> §l§f[{display_name}]'
+    chat: '§l§f<§bผู้เล่น§f> §l§f[{display_name}] §l§6> §l§e{msg}'
+    nametag: '§l§f<§bผู้เล่น§f> §l§f[{display_name}]'
     worlds: []
   Admin:
     chat: '§l§f<§l§cแ§aอ§eด§bมิ§dน§l§f> §l§f[{display_name}] §l§6> §l§e{msg}'
